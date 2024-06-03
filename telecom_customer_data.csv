@@ -1,0 +1,1001 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+8794-VHVEG,Female,0,Yes,Yes,7,No,No phone service,DSL,No,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,74.26,519.82,Yes
+8817-HZTQW,Female,0,No,No,20,No,Yes,Fiber optic,Yes,No,No internet service,No internet service,No internet service,Yes,Two year,No,Electronic check,43.72,874.4,No
+3709-MOTEO,Female,0,No,No,4,No,Yes,No,No,Yes,No internet service,No,No internet service,No,Month-to-month,Yes,Electronic check,56.46,225.84,No
+1028-VHVEG,Male,0,Yes,Yes,41,Yes,No phone service,DSL,Yes,No internet service,Yes,No,No internet service,Yes,Two year,Yes,Electronic check,76.11,3120.51,Yes
+2473-QPYBK,Female,0,Yes,No,48,Yes,No,DSL,No,Yes,No internet service,No,Yes,No internet service,Month-to-month,Yes,Mailed check,47.64,2286.72,No
+8346-MOTEO,Male,0,No,Yes,66,No,No,No,Yes,Yes,No,No,No internet service,No internet service,One year,Yes,Credit card (automatic),56.89,3754.74,No
+3829-HZTQW,Female,1,Yes,No,21,Yes,Yes,DSL,No internet service,No,No internet service,No internet service,Yes,Yes,One year,No,Mailed check,39.42,827.82,Yes
+6767-HZTQW,Male,0,No,Yes,21,No,Yes,Fiber optic,No internet service,No,No internet service,No internet service,No,No internet service,Two year,No,Credit card (automatic),47.76,1002.96,No
+1879-QPYBK,Male,0,Yes,No,2,No,Yes,Fiber optic,Yes,No internet service,No internet service,No,Yes,Yes,Two year,No,Mailed check,92.88,185.76,Yes
+7468-MOTEO,Male,0,No,Yes,49,Yes,No,Fiber optic,No internet service,No,Yes,No internet service,No internet service,No,Two year,No,Credit card (automatic),88.53,4337.97,No
+6052-HZTQW,Male,0,Yes,No,35,Yes,No,Fiber optic,No internet service,Yes,No internet service,No,Yes,No internet service,One year,No,Bank transfer (automatic),109.2,3822.0,No
+1716-HZTQW,Female,0,Yes,Yes,42,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,42.03,1765.26,No
+3206-VHVEG,Male,0,Yes,Yes,15,Yes,Yes,No,No,No internet service,No internet service,No,Yes,Yes,Two year,Yes,Electronic check,108.25,1623.75,No
+6649-GNVDE,Female,0,Yes,No,2,No,No,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,44.43,88.86,No
+3078-QPYBK,Female,0,Yes,Yes,37,Yes,No phone service,Fiber optic,No,No,Yes,No,No,No,One year,Yes,Credit card (automatic),22.49,832.13,No
+5773-VHVEG,Male,0,Yes,Yes,49,No,No,DSL,No internet service,No internet service,No,No,Yes,No internet service,Two year,Yes,Electronic check,103.23,5058.27,No
+4190-HZTQW,Male,0,Yes,Yes,72,Yes,No phone service,Fiber optic,Yes,No,No,Yes,No,No,One year,No,Credit card (automatic),93.11,6703.92,No
+3735-VHVEG,Female,0,No,No,64,Yes,No phone service,No,Yes,Yes,No internet service,Yes,No internet service,No,One year,No,Bank transfer (automatic),107.7,6892.8,Yes
+7007-VHVEG,Male,0,Yes,Yes,54,No,No phone service,Fiber optic,No internet service,Yes,Yes,Yes,Yes,No internet service,Month-to-month,No,Electronic check,113.83,6146.82,No
+9511-VHVEG,Male,0,No,No,9,No,Yes,DSL,No,No,No internet service,No,Yes,Yes,One year,Yes,Bank transfer (automatic),72.38,651.42,No
+5558-MOTEO,Female,0,Yes,No,20,No,Yes,Fiber optic,No,Yes,No,No,No,No internet service,Two year,No,Electronic check,105.24,2104.8,No
+6883-VHVEG,Female,0,Yes,Yes,23,No,No,DSL,No internet service,No,No internet service,No internet service,Yes,Yes,One year,Yes,Bank transfer (automatic),23.65,543.95,No
+2795-GNVDE,Male,0,Yes,Yes,53,Yes,No,DSL,Yes,Yes,No,No internet service,No internet service,No,Two year,Yes,Electronic check,98.17,5203.01,No
+4833-HZTQW,Female,0,No,No,30,No,No,DSL,Yes,No internet service,No,Yes,No internet service,No internet service,Two year,Yes,Electronic check,93.65,2809.5,No
+3477-QPYBK,Female,0,Yes,Yes,71,No,No,DSL,No,No internet service,No,No,Yes,No,Two year,Yes,Mailed check,87.07,6181.97,No
+6270-HZTQW,Male,0,Yes,No,22,Yes,No phone service,No,No,Yes,No,No internet service,No,No internet service,One year,No,Mailed check,117.71,2589.62,No
+3368-MOTEO,Female,0,Yes,Yes,61,No,Yes,No,No internet service,No internet service,No,Yes,Yes,No,One year,No,Mailed check,76.64,4675.04,No
+9427-QPYBK,Male,1,Yes,Yes,52,Yes,No,DSL,No,Yes,Yes,No internet service,Yes,No internet service,One year,No,Mailed check,45.82,2382.64,No
+4570-GNVDE,Female,0,Yes,No,35,Yes,No,Fiber optic,No internet service,No internet service,No,Yes,No,No,Month-to-month,Yes,Mailed check,36.27,1269.45,No
+5067-HZTQW,Male,0,No,Yes,26,Yes,Yes,DSL,Yes,No,Yes,No internet service,No,Yes,Month-to-month,Yes,Mailed check,109.53,2847.78,Yes
+5408-HZTQW,Male,0,No,Yes,28,Yes,Yes,No,Yes,No internet service,No,No internet service,Yes,Yes,Two year,Yes,Electronic check,95.81,2682.68,No
+6179-HZTQW,Female,0,No,No,18,Yes,No,Fiber optic,No internet service,Yes,No internet service,No,No,No internet service,Two year,No,Credit card (automatic),118.95,2141.1,No
+7879-MOTEO,Female,1,Yes,No,36,No,Yes,DSL,No internet service,No internet service,Yes,No,No,Yes,Two year,No,Credit card (automatic),98.54,3547.44,No
+3900-QPYBK,Female,0,No,No,58,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No,No internet service,No,Two year,Yes,Bank transfer (automatic),55.93,3243.94,No
+7300-QPYBK,Female,0,No,No,23,No,No phone service,DSL,No internet service,No internet service,No,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),110.67,2545.41,Yes
+4121-VHVEG,Female,0,No,Yes,8,Yes,No phone service,DSL,Yes,No,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,28.81,230.48,Yes
+4441-HZTQW,Male,0,Yes,Yes,9,Yes,Yes,DSL,Yes,No internet service,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),70.3,632.7,No
+2046-QPYBK,Female,1,No,Yes,53,Yes,Yes,DSL,No internet service,Yes,No,No,No internet service,No,Month-to-month,No,Credit card (automatic),76.26,4041.78,Yes
+4434-QPYBK,Male,0,No,Yes,4,No,Yes,Fiber optic,No internet service,No internet service,No,No internet service,Yes,No,Two year,Yes,Electronic check,42.64,170.56,Yes
+4019-VHVEG,Female,0,No,Yes,41,Yes,Yes,DSL,Yes,No internet service,No internet service,Yes,No,No,One year,No,Credit card (automatic),32.64,1338.24,Yes
+7586-QPYBK,Female,0,No,No,57,No,No,Fiber optic,No,No,Yes,No,No,Yes,One year,Yes,Mailed check,54.61,3112.77,No
+5014-HZTQW,Female,0,No,Yes,66,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No,Yes,Two year,No,Credit card (automatic),55.43,3658.38,No
+5569-VHVEG,Male,0,No,No,51,Yes,No,No,Yes,No internet service,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),70.92,3616.92,No
+5173-GNVDE,Female,0,No,No,38,Yes,Yes,No,No,Yes,No,No,No,No internet service,One year,Yes,Mailed check,112.0,4256.0,No
+7665-GNVDE,Female,1,No,No,3,Yes,No phone service,Fiber optic,No internet service,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),93.63,280.89,No
+7684-GNVDE,Female,0,Yes,Yes,42,No,No phone service,Fiber optic,No internet service,Yes,No internet service,Yes,No internet service,No,Two year,No,Mailed check,45.74,1921.08,No
+2427-VHVEG,Male,0,No,Yes,16,Yes,Yes,No,No,No,No,No,No internet service,No,Two year,Yes,Electronic check,61.19,979.04,No
+7422-GNVDE,Female,1,Yes,Yes,48,Yes,Yes,DSL,Yes,Yes,No,No internet service,Yes,Yes,Two year,No,Bank transfer (automatic),80.63,3870.24,No
+9261-HZTQW,Male,0,No,No,33,Yes,No phone service,Fiber optic,No internet service,No,Yes,No,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),61.68,2035.44,Yes
+3461-GNVDE,Female,1,No,Yes,20,Yes,No phone service,DSL,No internet service,No internet service,Yes,Yes,Yes,No internet service,Two year,No,Credit card (automatic),79.21,1584.2,No
+8505-MOTEO,Male,0,Yes,No,49,Yes,No phone service,No,Yes,No,Yes,Yes,Yes,No internet service,One year,Yes,Electronic check,42.32,2073.68,Yes
+7181-GNVDE,Female,0,Yes,No,59,Yes,No phone service,Fiber optic,No,No,No,No,No internet service,No,One year,Yes,Credit card (automatic),96.94,5719.46,No
+5915-HZTQW,Female,0,Yes,Yes,65,Yes,No,No,No internet service,Yes,No,No,No internet service,No,One year,Yes,Mailed check,61.73,4012.45,Yes
+8211-MOTEO,Male,0,No,No,54,No,No,No,No,Yes,No internet service,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),44.1,2381.4,No
+4726-HZTQW,Male,0,No,No,20,Yes,No phone service,DSL,No,Yes,Yes,No,No internet service,Yes,Month-to-month,Yes,Mailed check,85.66,1713.2,No
+7894-MOTEO,Male,0,Yes,No,3,Yes,No,Fiber optic,Yes,Yes,Yes,No internet service,No internet service,No,One year,No,Bank transfer (automatic),43.93,131.79,Yes
+6368-MOTEO,Female,0,Yes,No,8,No,No phone service,Fiber optic,No internet service,No,No internet service,Yes,No,No internet service,Month-to-month,No,Mailed check,31.15,249.2,Yes
+5326-GNVDE,Female,0,No,No,72,No,No,Fiber optic,No internet service,No internet service,No internet service,No internet service,Yes,No,Two year,No,Electronic check,99.88,7191.36,No
+6059-QPYBK,Male,0,Yes,No,32,Yes,Yes,No,Yes,No,No,No internet service,No internet service,No,Two year,No,Mailed check,40.58,1298.56,No
+1878-QPYBK,Female,0,Yes,Yes,42,No,No,No,Yes,No internet service,No,No,Yes,Yes,Month-to-month,No,Mailed check,111.43,4680.06,No
+6785-HZTQW,Female,0,Yes,No,14,Yes,Yes,Fiber optic,Yes,No,No,No internet service,No,No internet service,Two year,No,Electronic check,81.2,1136.8,No
+3226-QPYBK,Male,0,Yes,Yes,72,No,Yes,No,Yes,Yes,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Electronic check,36.66,2639.52,No
+5797-QPYBK,Male,0,No,No,32,No,Yes,No,Yes,No,No internet service,No,No internet service,Yes,One year,No,Mailed check,74.61,2387.52,No
+7425-VHVEG,Male,0,Yes,No,9,Yes,Yes,No,No,No,No internet service,No,No internet service,No internet service,Month-to-month,No,Electronic check,24.46,220.14,No
+5195-GNVDE,Female,0,Yes,Yes,39,Yes,No,Fiber optic,Yes,No,No internet service,No,No,No,Two year,No,Bank transfer (automatic),82.82,3229.98,No
+8614-HZTQW,Female,0,Yes,No,23,No,No,Fiber optic,No internet service,Yes,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,53.35,1227.05,No
+1586-QPYBK,Male,0,No,Yes,27,Yes,No,No,No,Yes,Yes,No,No internet service,Yes,One year,Yes,Bank transfer (automatic),95.25,2571.75,Yes
+9527-VHVEG,Female,0,Yes,Yes,36,Yes,Yes,No,Yes,No,No,No internet service,No internet service,No,Month-to-month,No,Mailed check,67.39,2426.04,Yes
+6916-QPYBK,Male,0,Yes,Yes,43,No,No,DSL,Yes,No internet service,No internet service,No,No,Yes,Two year,No,Credit card (automatic),92.68,3985.24,No
+8938-HZTQW,Male,0,Yes,No,46,No,Yes,Fiber optic,No,No internet service,No internet service,No internet service,No,No,Month-to-month,No,Bank transfer (automatic),109.95,5057.7,No
+4881-QPYBK,Male,0,No,Yes,28,Yes,No phone service,DSL,Yes,No,No,No internet service,Yes,No,Two year,No,Electronic check,44.69,1251.32,No
+4353-MOTEO,Female,0,No,Yes,10,Yes,No phone service,DSL,No,Yes,No,No internet service,Yes,No,Month-to-month,No,Electronic check,49.42,494.2,No
+5192-VHVEG,Male,0,Yes,No,34,No,No,Fiber optic,No,No,Yes,No internet service,Yes,No internet service,One year,No,Bank transfer (automatic),116.81,3971.54,No
+5801-MOTEO,Male,0,No,No,42,Yes,No,DSL,Yes,Yes,Yes,No internet service,No,Yes,Two year,No,Mailed check,80.24,3370.08,No
+5668-QPYBK,Male,0,No,No,33,Yes,No,No,Yes,No,No internet service,No,Yes,Yes,One year,Yes,Electronic check,75.93,2505.69,No
+1897-MOTEO,Female,0,Yes,No,1,No,No,DSL,No internet service,No,Yes,No,No,No internet service,Month-to-month,No,Mailed check,45.83,45.83,No
+1734-MOTEO,Female,1,No,Yes,14,Yes,Yes,DSL,No,No,No internet service,No internet service,Yes,No,Two year,No,Bank transfer (automatic),64.59,904.26,No
+1178-VHVEG,Female,0,Yes,Yes,48,No,No phone service,No,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),88.46,4246.08,No
+3165-MOTEO,Male,0,No,Yes,5,Yes,No phone service,No,No,No internet service,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),22.16,110.8,Yes
+8943-QPYBK,Female,0,Yes,Yes,8,No,Yes,No,No,No,No,Yes,No internet service,Yes,Month-to-month,Yes,Electronic check,58.55,468.4,No
+6660-VHVEG,Female,0,Yes,Yes,0,No,Yes,No,Yes,No internet service,No internet service,No internet service,No,No,Month-to-month,No,Electronic check,86.12,86.12,No
+1995-MOTEO,Male,0,No,Yes,40,No,No,No,Yes,Yes,Yes,No internet service,No,No,Month-to-month,No,Bank transfer (automatic),50.48,2019.2,No
+8171-QPYBK,Female,0,No,Yes,2,No,No phone service,DSL,No internet service,No internet service,No internet service,No,No internet service,Yes,Two year,No,Bank transfer (automatic),34.14,68.28,No
+5351-MOTEO,Male,0,Yes,Yes,63,No,No phone service,DSL,Yes,No internet service,No internet service,No,No internet service,No internet service,Month-to-month,No,Credit card (automatic),108.62,6843.06,No
+3092-GNVDE,Male,0,No,Yes,68,Yes,No,No,No,Yes,No,No,No internet service,No,One year,Yes,Credit card (automatic),69.17,4703.56,No
+4155-VHVEG,Female,0,No,Yes,20,No,Yes,Fiber optic,No,No internet service,No,No internet service,Yes,No,One year,No,Electronic check,49.58,991.6,No
+8366-HZTQW,Female,1,Yes,No,61,Yes,No phone service,No,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,96.46,5884.06,Yes
+6914-MOTEO,Male,0,Yes,No,54,No,No phone service,No,No internet service,No,No internet service,Yes,No internet service,No internet service,Two year,Yes,Credit card (automatic),102.77,5549.58,No
+5618-MOTEO,Female,1,No,No,26,Yes,No,No,No,Yes,Yes,No internet service,Yes,No,One year,No,Credit card (automatic),78.55,2042.3,No
+3119-MOTEO,Male,0,Yes,No,72,No,Yes,No,Yes,No internet service,Yes,No internet service,No,No,One year,No,Mailed check,96.73,6964.56,No
+9877-QPYBK,Male,0,No,No,28,No,Yes,Fiber optic,No,No,No internet service,No internet service,Yes,No,Two year,No,Bank transfer (automatic),79.92,2237.76,No
+3572-HZTQW,Male,0,No,Yes,41,No,No phone service,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,61.24,2510.84,Yes
+8216-VHVEG,Male,0,No,Yes,70,Yes,No,Fiber optic,No,No,No,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),111.17,7781.9,Yes
+7827-GNVDE,Female,0,No,Yes,42,Yes,Yes,No,No,No internet service,Yes,No internet service,No,Yes,Month-to-month,No,Mailed check,70.94,2979.48,No
+9879-VHVEG,Female,0,No,Yes,13,No,Yes,DSL,Yes,No,Yes,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),33.6,436.8,No
+5374-VHVEG,Female,0,Yes,Yes,30,No,No,DSL,Yes,No internet service,Yes,No internet service,No internet service,No internet service,One year,No,Electronic check,88.46,2653.8,No
+5796-HZTQW,Male,0,No,No,15,No,No phone service,DSL,Yes,No internet service,No internet service,No internet service,No,No,One year,Yes,Credit card (automatic),47.68,715.2,No
+2867-GNVDE,Female,0,No,No,36,No,Yes,No,No,Yes,No,No internet service,No,Yes,Two year,No,Bank transfer (automatic),74.69,2688.84,No
+8464-HZTQW,Female,0,Yes,Yes,55,Yes,No,Fiber optic,Yes,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Electronic check,76.34,4198.7,Yes
+7641-VHVEG,Female,1,Yes,Yes,0,Yes,No,Fiber optic,No internet service,No,No,No,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),95.4,95.4,No
+2247-QPYBK,Male,1,No,Yes,32,Yes,No phone service,DSL,No internet service,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),111.41,3565.12,No
+9903-QPYBK,Male,0,Yes,Yes,57,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Two year,No,Credit card (automatic),78.48,4473.36,No
+9228-GNVDE,Female,0,Yes,Yes,27,No,No phone service,DSL,No internet service,Yes,Yes,Yes,Yes,No internet service,Two year,Yes,Electronic check,23.43,632.61,No
+3834-QPYBK,Male,0,Yes,Yes,24,Yes,No phone service,Fiber optic,Yes,Yes,No,No internet service,No,No,Month-to-month,No,Credit card (automatic),55.27,1326.48,No
+8996-MOTEO,Female,0,Yes,No,61,No,No phone service,No,No,Yes,No,No internet service,No internet service,No,Month-to-month,No,Mailed check,111.58,6806.38,No
+3282-HZTQW,Male,0,Yes,Yes,4,No,Yes,Fiber optic,Yes,Yes,No,No internet service,Yes,Yes,Two year,No,Credit card (automatic),76.46,305.84,No
+8049-MOTEO,Female,1,Yes,Yes,22,No,No,No,No internet service,Yes,No,No,No internet service,No internet service,Month-to-month,Yes,Electronic check,94.27,2073.94,Yes
+3124-MOTEO,Female,0,Yes,Yes,65,No,No phone service,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,30.84,2004.6,No
+3269-QPYBK,Male,1,Yes,No,65,No,No phone service,Fiber optic,Yes,Yes,No,Yes,No internet service,Yes,Month-to-month,No,Mailed check,22.79,1481.35,No
+7436-HZTQW,Female,0,No,No,30,No,Yes,Fiber optic,No internet service,Yes,No internet service,No,Yes,Yes,One year,Yes,Credit card (automatic),118.85,3565.5,No
+6771-GNVDE,Female,0,Yes,No,44,Yes,No phone service,DSL,No internet service,No internet service,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),40.31,1773.64,No
+4252-GNVDE,Female,0,Yes,Yes,12,No,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,One year,No,Electronic check,62.65,751.8,No
+2951-HZTQW,Female,0,No,No,62,Yes,No,No,No internet service,No,No,No internet service,No,No,Two year,Yes,Mailed check,60.44,3747.28,No
+4399-QPYBK,Male,0,No,Yes,7,Yes,No phone service,No,No internet service,No internet service,No,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),53.21,372.47,No
+2516-MOTEO,Female,0,No,Yes,38,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,Yes,Yes,Yes,Month-to-month,No,Mailed check,21.97,834.86,No
+5014-HZTQW,Male,1,No,No,50,Yes,No phone service,DSL,No internet service,No,No internet service,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),116.71,5835.5,Yes
+1991-GNVDE,Female,0,Yes,No,42,No,No phone service,DSL,No internet service,Yes,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),59.16,2484.72,No
+4424-GNVDE,Male,0,Yes,No,14,Yes,No,No,Yes,Yes,No,No internet service,No,No,Two year,No,Mailed check,103.03,1442.42,No
+4574-VHVEG,Female,0,No,Yes,5,Yes,Yes,No,Yes,No,No internet service,No,No,No,Two year,Yes,Bank transfer (automatic),95.06,475.3,No
+3724-GNVDE,Female,0,No,No,46,No,Yes,Fiber optic,Yes,No internet service,Yes,No,No internet service,No internet service,Month-to-month,Yes,Mailed check,100.98,4645.08,No
+5748-QPYBK,Male,0,No,Yes,46,Yes,No phone service,DSL,Yes,Yes,No internet service,No,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),63.78,2933.88,Yes
+1229-HZTQW,Female,0,Yes,No,65,Yes,Yes,No,No,No internet service,Yes,No,Yes,No internet service,Two year,No,Electronic check,75.85,4930.25,No
+8636-QPYBK,Male,0,Yes,Yes,38,Yes,Yes,Fiber optic,No,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,No,Electronic check,94.17,3578.46,No
+1814-QPYBK,Male,0,No,No,11,No,Yes,No,No internet service,No internet service,Yes,No,No,No internet service,One year,No,Mailed check,78.66,865.26,No
+4833-QPYBK,Male,1,No,No,51,No,No phone service,No,No internet service,Yes,Yes,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),87.28,4451.28,Yes
+9893-VHVEG,Female,0,No,Yes,44,Yes,No,Fiber optic,No internet service,No internet service,Yes,No internet service,No internet service,No,Month-to-month,Yes,Credit card (automatic),57.73,2540.12,Yes
+8399-VHVEG,Female,0,Yes,No,22,No,Yes,No,No,No internet service,Yes,No internet service,Yes,Yes,Month-to-month,No,Credit card (automatic),67.35,1481.7,No
+3353-QPYBK,Male,0,Yes,Yes,46,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,31.16,1433.36,No
+3321-GNVDE,Female,0,No,Yes,34,No,No,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),97.15,3303.1,No
+1132-QPYBK,Male,0,No,No,15,No,No phone service,DSL,Yes,Yes,Yes,No internet service,No internet service,No,One year,Yes,Electronic check,89.85,1347.75,No
+5354-VHVEG,Male,0,No,No,7,Yes,Yes,DSL,Yes,Yes,Yes,No,No internet service,No,Month-to-month,No,Mailed check,112.47,787.29,Yes
+8419-QPYBK,Male,0,Yes,Yes,64,Yes,No,DSL,Yes,No,Yes,No internet service,Yes,No,One year,Yes,Electronic check,67.91,4346.24,Yes
+6708-GNVDE,Female,1,No,Yes,50,No,Yes,DSL,No internet service,Yes,No internet service,No internet service,Yes,Yes,One year,No,Electronic check,102.0,5100.0,Yes
+3468-VHVEG,Male,0,No,No,49,Yes,No phone service,No,Yes,No internet service,No,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),42.87,2100.63,Yes
+8528-HZTQW,Female,0,No,No,63,Yes,Yes,DSL,No internet service,Yes,No,No,Yes,Yes,One year,No,Bank transfer (automatic),59.92,3774.96,No
+1075-MOTEO,Female,1,No,Yes,55,Yes,No,DSL,No internet service,Yes,No,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),32.02,1761.1,Yes
+5737-QPYBK,Male,0,Yes,Yes,57,No,No phone service,No,Yes,Yes,Yes,No internet service,No internet service,No,One year,No,Electronic check,84.76,4831.32,No
+6167-GNVDE,Female,0,No,Yes,20,No,No phone service,No,No internet service,Yes,Yes,No internet service,No,No,Month-to-month,Yes,Bank transfer (automatic),48.67,973.4,Yes
+2118-HZTQW,Male,0,No,Yes,51,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),58.94,3005.94,No
+1310-MOTEO,Male,1,No,No,66,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,Yes,No internet service,One year,Yes,Credit card (automatic),33.82,2232.12,Yes
+1915-MOTEO,Male,0,Yes,No,47,Yes,No phone service,No,Yes,Yes,Yes,No,Yes,No internet service,One year,Yes,Credit card (automatic),101.82,4785.54,No
+3972-GNVDE,Male,0,No,Yes,38,Yes,No phone service,No,No internet service,No,No,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,39.51,1501.38,No
+7199-GNVDE,Male,0,Yes,Yes,36,No,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Mailed check,93.47,3364.92,No
+3430-GNVDE,Female,0,No,Yes,24,No,No,Fiber optic,No,No,No internet service,Yes,No internet service,Yes,Two year,Yes,Bank transfer (automatic),54.94,1318.56,No
+1804-HZTQW,Male,0,No,Yes,64,No,No,DSL,No,Yes,Yes,No,No internet service,No,Month-to-month,No,Mailed check,76.93,4923.52,No
+1818-HZTQW,Female,0,Yes,Yes,48,Yes,No phone service,Fiber optic,Yes,No internet service,No,No,Yes,Yes,One year,Yes,Credit card (automatic),51.28,2461.44,No
+5277-QPYBK,Female,0,Yes,No,30,Yes,No phone service,DSL,No internet service,No internet service,Yes,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),54.04,1621.2,No
+9098-QPYBK,Male,0,No,Yes,39,Yes,No phone service,DSL,Yes,No,No internet service,No,Yes,No,One year,No,Credit card (automatic),109.99,4289.61,No
+6104-MOTEO,Female,0,Yes,Yes,15,No,No phone service,DSL,No,No internet service,No,No internet service,No,No,Two year,Yes,Mailed check,32.19,482.85,Yes
+1123-QPYBK,Female,0,No,Yes,68,Yes,No phone service,Fiber optic,No,No internet service,No,No internet service,No internet service,No internet service,Two year,No,Mailed check,40.03,2722.04,Yes
+7495-VHVEG,Female,0,No,No,64,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No,No,Yes,One year,No,Electronic check,43.11,2759.04,Yes
+3144-GNVDE,Male,0,No,Yes,22,No,No phone service,DSL,Yes,No internet service,Yes,No,No internet service,No internet service,Two year,No,Electronic check,112.16,2467.52,No
+9138-HZTQW,Female,0,No,No,61,No,Yes,No,No internet service,No internet service,No internet service,No,No internet service,No internet service,One year,No,Electronic check,113.77,6939.97,Yes
+8874-QPYBK,Male,0,Yes,Yes,17,Yes,No phone service,No,No,No,No,Yes,Yes,Yes,Two year,Yes,Mailed check,34.04,578.68,No
+4016-MOTEO,Male,0,No,Yes,34,Yes,Yes,No,No,No,Yes,Yes,No,No internet service,One year,No,Mailed check,24.12,820.08,No
+6498-VHVEG,Male,0,Yes,No,7,Yes,No phone service,DSL,No internet service,No,No,No,No internet service,Yes,One year,Yes,Bank transfer (automatic),63.6,445.2,Yes
+6660-MOTEO,Female,1,Yes,No,16,Yes,No phone service,No,No,No,No internet service,Yes,No,No,Two year,No,Credit card (automatic),52.9,846.4,Yes
+6129-GNVDE,Male,0,No,No,38,Yes,Yes,Fiber optic,Yes,No,No,Yes,No internet service,No,Two year,No,Mailed check,41.91,1592.58,No
+8404-VHVEG,Female,0,Yes,Yes,28,Yes,Yes,DSL,No,No,No,No,Yes,No,One year,Yes,Bank transfer (automatic),64.74,1812.72,No
+7265-VHVEG,Female,1,No,Yes,7,No,Yes,DSL,No,Yes,No internet service,No,No internet service,Yes,Two year,No,Bank transfer (automatic),35.09,245.63,No
+7488-HZTQW,Male,0,No,Yes,8,Yes,No phone service,Fiber optic,Yes,Yes,No,Yes,No,Yes,One year,No,Electronic check,68.52,548.16,No
+4239-VHVEG,Male,0,No,Yes,2,No,No,Fiber optic,No internet service,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),118.39,236.78,No
+8107-QPYBK,Male,0,Yes,Yes,32,No,No phone service,Fiber optic,No internet service,No internet service,No internet service,No,No internet service,No,One year,No,Credit card (automatic),38.32,1226.24,Yes
+6106-QPYBK,Female,0,Yes,Yes,30,Yes,No,DSL,Yes,No internet service,No internet service,No,No,No internet service,Two year,No,Mailed check,46.69,1400.7,No
+2286-QPYBK,Male,0,No,Yes,7,Yes,No phone service,No,Yes,No internet service,Yes,No internet service,No,No internet service,One year,No,Electronic check,92.71,648.97,Yes
+3045-MOTEO,Male,0,Yes,No,63,No,Yes,DSL,Yes,Yes,No internet service,Yes,Yes,Yes,Two year,Yes,Electronic check,105.14,6623.82,No
+2495-GNVDE,Male,0,Yes,No,68,No,No,No,Yes,Yes,Yes,No,Yes,No internet service,Two year,No,Mailed check,53.51,3638.68,No
+8717-GNVDE,Male,0,Yes,Yes,46,No,No,Fiber optic,No internet service,No internet service,No internet service,No,No,No,Month-to-month,Yes,Electronic check,34.69,1595.74,No
+6019-GNVDE,Male,1,No,No,68,Yes,No phone service,Fiber optic,Yes,No,Yes,No,Yes,No internet service,One year,Yes,Electronic check,32.33,2198.44,No
+2477-VHVEG,Female,0,Yes,Yes,60,No,No phone service,Fiber optic,No internet service,Yes,No,Yes,Yes,No internet service,Month-to-month,No,Electronic check,79.88,4792.8,No
+7995-QPYBK,Female,0,No,No,25,Yes,No,No,No internet service,No internet service,No internet service,No,No,No,Month-to-month,Yes,Electronic check,27.96,699.0,No
+8169-QPYBK,Female,0,No,No,14,Yes,Yes,DSL,No internet service,Yes,No internet service,Yes,No,No,Month-to-month,Yes,Credit card (automatic),98.51,1379.14,No
+5330-HZTQW,Male,1,Yes,No,48,Yes,No phone service,Fiber optic,No internet service,No,Yes,Yes,No,Yes,One year,Yes,Electronic check,67.42,3236.16,No
+5604-VHVEG,Female,1,Yes,Yes,46,No,No,Fiber optic,Yes,Yes,No,No,Yes,No internet service,Two year,Yes,Credit card (automatic),34.3,1577.8,Yes
+3186-VHVEG,Male,0,No,Yes,63,No,Yes,No,Yes,No,No internet service,No,No internet service,Yes,Month-to-month,No,Mailed check,113.64,7159.32,No
+8562-QPYBK,Female,0,No,Yes,7,No,No phone service,Fiber optic,No internet service,No internet service,No internet service,No,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),95.79,670.53,No
+3064-QPYBK,Female,0,Yes,No,39,Yes,No phone service,No,No internet service,No internet service,No internet service,Yes,Yes,No,One year,Yes,Electronic check,39.12,1525.68,No
+3199-HZTQW,Male,0,No,No,63,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,Yes,Yes,No,Two year,Yes,Mailed check,103.66,6530.58,No
+7824-QPYBK,Female,0,Yes,No,2,No,No phone service,No,No,Yes,No internet service,Yes,Yes,No,One year,Yes,Credit card (automatic),93.51,187.02,No
+8183-VHVEG,Male,0,No,No,9,No,Yes,No,Yes,Yes,No internet service,Yes,No internet service,Yes,Two year,No,Electronic check,104.38,939.42,No
+8198-VHVEG,Female,0,Yes,Yes,60,Yes,No phone service,Fiber optic,No,No internet service,No internet service,No,No internet service,No,One year,Yes,Electronic check,76.67,4600.2,No
+2570-HZTQW,Male,1,Yes,Yes,19,No,No phone service,Fiber optic,Yes,No,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),81.06,1540.14,No
+1025-VHVEG,Male,0,Yes,Yes,61,No,No phone service,DSL,No internet service,No internet service,No,No,No internet service,Yes,Month-to-month,No,Mailed check,113.36,6914.96,No
+2451-QPYBK,Female,0,No,No,60,No,Yes,DSL,No,No internet service,No internet service,No,Yes,No,One year,Yes,Electronic check,44.68,2680.8,No
+5610-GNVDE,Female,0,Yes,Yes,9,Yes,No,DSL,No,Yes,No,No,No internet service,No internet service,One year,No,Credit card (automatic),82.57,743.13,No
+4670-MOTEO,Female,1,No,Yes,49,Yes,Yes,No,Yes,No,No,No,Yes,No internet service,Two year,No,Credit card (automatic),48.28,2365.72,No
+2149-HZTQW,Male,1,No,Yes,12,Yes,No,Fiber optic,Yes,No internet service,No internet service,No internet service,No,Yes,One year,No,Electronic check,58.7,704.4,Yes
+3157-GNVDE,Male,0,No,Yes,33,No,No phone service,No,Yes,No,No,No,No internet service,No,Month-to-month,Yes,Electronic check,40.16,1325.28,No
+3686-VHVEG,Female,0,Yes,Yes,21,No,No phone service,No,No,No,Yes,Yes,No internet service,No,Two year,Yes,Credit card (automatic),117.87,2475.27,No
+8419-QPYBK,Female,0,Yes,No,70,No,Yes,No,No internet service,No internet service,Yes,No internet service,No,Yes,One year,Yes,Electronic check,26.25,1837.5,No
+9399-MOTEO,Female,0,No,No,39,Yes,No phone service,No,Yes,Yes,No,Yes,No,No internet service,One year,No,Electronic check,86.79,3384.81,Yes
+4321-QPYBK,Female,0,No,No,21,No,No,DSL,No,No,No,No internet service,No,No,One year,Yes,Mailed check,42.83,899.43,No
+5164-MOTEO,Female,0,No,Yes,65,No,No phone service,Fiber optic,Yes,No,Yes,Yes,No internet service,No internet service,One year,No,Credit card (automatic),105.48,6856.2,No
+5843-HZTQW,Male,0,No,No,5,Yes,No phone service,No,No,Yes,No internet service,No,No internet service,No internet service,Two year,Yes,Credit card (automatic),92.48,462.4,No
+2289-GNVDE,Female,0,No,No,8,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,No internet service,No internet service,No,Two year,No,Mailed check,87.12,696.96,Yes
+3016-GNVDE,Male,0,Yes,Yes,10,No,No,DSL,No internet service,No internet service,No,No,No internet service,No,One year,No,Mailed check,44.35,443.5,Yes
+4504-VHVEG,Male,0,No,Yes,37,Yes,Yes,DSL,No internet service,Yes,No internet service,No internet service,No internet service,No,Two year,Yes,Electronic check,72.5,2682.5,No
+2437-MOTEO,Female,0,No,No,12,No,Yes,No,Yes,No,No internet service,Yes,No,No internet service,One year,Yes,Mailed check,115.29,1383.48,No
+9661-MOTEO,Female,0,Yes,Yes,40,No,No,Fiber optic,No,No,No internet service,Yes,No,No,Two year,Yes,Mailed check,84.05,3362.0,No
+6358-GNVDE,Male,0,No,No,71,No,Yes,Fiber optic,Yes,No,No,No internet service,No internet service,Yes,One year,No,Bank transfer (automatic),47.23,3353.33,Yes
+1001-QPYBK,Female,0,No,No,44,No,No phone service,No,No,No,No internet service,No internet service,No,No,Month-to-month,No,Mailed check,80.65,3548.6,No
+2914-HZTQW,Female,0,No,No,24,Yes,No phone service,Fiber optic,No internet service,No internet service,No,Yes,No internet service,Yes,One year,No,Bank transfer (automatic),51.53,1236.72,No
+1971-GNVDE,Male,0,Yes,Yes,12,No,Yes,DSL,Yes,No internet service,No internet service,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),105.85,1270.2,Yes
+5006-VHVEG,Male,0,Yes,No,58,Yes,No,Fiber optic,No,No,No internet service,No,No internet service,No,One year,No,Bank transfer (automatic),31.89,1849.62,No
+8753-MOTEO,Female,0,No,Yes,46,Yes,Yes,DSL,Yes,No internet service,No internet service,No internet service,No internet service,Yes,Two year,Yes,Electronic check,43.31,1992.26,No
+7058-MOTEO,Female,0,Yes,Yes,56,Yes,Yes,Fiber optic,Yes,No internet service,Yes,No internet service,Yes,Yes,One year,Yes,Bank transfer (automatic),98.94,5540.64,No
+7299-QPYBK,Female,0,No,No,48,Yes,No phone service,No,No internet service,Yes,No,No internet service,Yes,No internet service,Two year,No,Bank transfer (automatic),56.77,2724.96,No
+5358-QPYBK,Female,0,No,Yes,32,No,No,No,No internet service,No internet service,Yes,No,No internet service,No,Month-to-month,No,Bank transfer (automatic),60.43,1933.76,Yes
+4333-VHVEG,Female,0,No,No,62,No,No phone service,No,Yes,No,No internet service,No,No internet service,No internet service,Month-to-month,No,Electronic check,94.93,5885.66,No
+6009-VHVEG,Female,0,Yes,No,38,No,Yes,DSL,No,No internet service,No internet service,Yes,No internet service,No internet service,One year,Yes,Electronic check,116.3,4419.4,No
+3744-GNVDE,Female,0,Yes,No,13,Yes,No,No,Yes,Yes,Yes,No internet service,No internet service,No,One year,Yes,Electronic check,53.04,689.52,No
+8442-QPYBK,Female,0,No,No,0,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),53.7,53.7,No
+2255-QPYBK,Female,0,No,No,7,Yes,No,No,Yes,No internet service,No internet service,No,Yes,No internet service,One year,No,Electronic check,53.56,374.92,No
+3698-VHVEG,Female,0,Yes,Yes,67,Yes,Yes,DSL,No internet service,No,No internet service,No internet service,No,No internet service,Month-to-month,No,Electronic check,27.54,1845.18,No
+3409-HZTQW,Female,0,Yes,No,40,Yes,No,Fiber optic,No,No internet service,No,Yes,No internet service,No,Two year,Yes,Bank transfer (automatic),116.92,4676.8,No
+7789-VHVEG,Male,1,Yes,No,52,No,No phone service,DSL,Yes,Yes,No internet service,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),46.95,2441.4,No
+2780-VHVEG,Female,1,Yes,No,36,Yes,No phone service,DSL,Yes,No,No internet service,No,No,No,Two year,Yes,Credit card (automatic),108.87,3919.32,Yes
+8658-GNVDE,Female,1,Yes,Yes,60,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),33.72,2023.2,No
+3978-MOTEO,Female,0,No,No,24,Yes,No phone service,No,No,No internet service,No internet service,No internet service,Yes,No,One year,Yes,Credit card (automatic),62.78,1506.72,Yes
+1646-VHVEG,Male,1,No,No,53,No,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),31.7,1680.1,No
+8359-MOTEO,Female,0,No,Yes,26,No,No phone service,DSL,No internet service,No internet service,No,Yes,No,Yes,One year,No,Mailed check,20.14,523.64,No
+9449-GNVDE,Female,0,Yes,Yes,33,No,No phone service,DSL,Yes,No internet service,No internet service,Yes,No,No,Month-to-month,No,Credit card (automatic),59.06,1948.98,Yes
+7040-VHVEG,Female,0,No,No,3,No,Yes,No,Yes,No,No internet service,No,No internet service,Yes,Month-to-month,No,Credit card (automatic),88.71,266.13,No
+7610-VHVEG,Male,0,Yes,No,55,No,No,No,No,No internet service,No,No,Yes,Yes,Month-to-month,No,Mailed check,73.85,4061.75,No
+8624-HZTQW,Male,0,No,Yes,56,No,No phone service,DSL,No,Yes,No internet service,No,Yes,No internet service,Two year,No,Electronic check,111.32,6233.92,No
+1026-QPYBK,Male,0,Yes,No,34,Yes,Yes,No,Yes,No,No internet service,No,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),108.68,3695.12,No
+3651-GNVDE,Female,0,Yes,Yes,61,Yes,No,Fiber optic,Yes,No,No internet service,No,No,Yes,Month-to-month,Yes,Electronic check,26.83,1636.63,Yes
+9761-VHVEG,Male,0,No,No,62,No,No,DSL,Yes,Yes,Yes,No internet service,Yes,Yes,Month-to-month,No,Mailed check,41.83,2593.46,No
+7021-QPYBK,Male,0,No,No,18,Yes,Yes,DSL,No internet service,No,No,Yes,No,No internet service,Month-to-month,No,Credit card (automatic),59.51,1071.18,No
+4188-HZTQW,Female,0,Yes,No,21,No,No phone service,Fiber optic,Yes,No internet service,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),96.85,2033.85,No
+6020-QPYBK,Female,0,No,Yes,66,No,Yes,No,Yes,No internet service,No internet service,No internet service,No,No,One year,Yes,Electronic check,97.85,6458.1,No
+8912-GNVDE,Female,0,Yes,No,17,Yes,Yes,Fiber optic,No internet service,Yes,Yes,No internet service,No,No internet service,One year,No,Bank transfer (automatic),110.4,1876.8,No
+1708-GNVDE,Female,1,No,Yes,37,No,Yes,DSL,No,Yes,No internet service,Yes,No internet service,No,Month-to-month,Yes,Credit card (automatic),88.04,3257.48,Yes
+6643-VHVEG,Female,0,Yes,No,26,No,No,Fiber optic,No,No,No internet service,No internet service,No,No internet service,One year,No,Bank transfer (automatic),94.32,2452.32,No
+3904-MOTEO,Male,0,No,Yes,39,No,Yes,DSL,Yes,No,No internet service,No,No,No internet service,One year,No,Mailed check,98.4,3837.6,No
+1405-MOTEO,Female,0,Yes,No,24,No,Yes,No,No internet service,No internet service,No internet service,Yes,No internet service,Yes,One year,No,Credit card (automatic),67.64,1623.36,No
+8016-GNVDE,Male,0,Yes,No,66,No,No,DSL,No internet service,No internet service,No,No,Yes,No internet service,One year,Yes,Credit card (automatic),85.72,5657.52,No
+7479-HZTQW,Female,0,No,No,15,No,No phone service,DSL,No,No,No,Yes,No,No,One year,Yes,Credit card (automatic),50.42,756.3,No
+2180-MOTEO,Female,0,Yes,Yes,68,No,No phone service,DSL,No,No,No internet service,Yes,No internet service,No internet service,One year,Yes,Credit card (automatic),115.49,7853.32,No
+3254-MOTEO,Female,0,Yes,Yes,34,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Two year,No,Electronic check,86.62,2945.08,Yes
+1668-GNVDE,Male,0,Yes,No,3,No,No phone service,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),79.18,237.54,No
+9436-HZTQW,Female,0,Yes,Yes,13,Yes,No phone service,DSL,No,Yes,No internet service,No,Yes,No internet service,Two year,Yes,Credit card (automatic),97.37,1265.81,Yes
+1702-QPYBK,Female,1,No,No,27,Yes,No phone service,No,Yes,Yes,No,No,Yes,No internet service,Month-to-month,Yes,Mailed check,48.41,1307.07,No
+5402-HZTQW,Male,0,Yes,Yes,25,No,No phone service,DSL,No,Yes,No,No,No internet service,No internet service,Two year,No,Electronic check,82.04,2051.0,Yes
+1049-HZTQW,Male,0,Yes,Yes,0,No,No,No,No internet service,Yes,No,Yes,Yes,No internet service,One year,No,Electronic check,28.1,28.1,No
+3342-VHVEG,Male,0,Yes,Yes,43,Yes,Yes,DSL,No internet service,No internet service,No internet service,Yes,Yes,Yes,One year,No,Mailed check,101.9,4381.7,No
+6214-MOTEO,Male,0,Yes,No,9,Yes,No,No,No,No,No internet service,No internet service,Yes,No internet service,One year,Yes,Mailed check,44.47,400.23,No
+9304-QPYBK,Female,0,No,Yes,7,Yes,No,No,Yes,No,No internet service,Yes,Yes,Yes,One year,Yes,Mailed check,79.19,554.33,Yes
+6593-GNVDE,Female,0,Yes,No,2,Yes,No phone service,No,No,No,No internet service,No,No,No internet service,Month-to-month,No,Bank transfer (automatic),64.28,128.56,Yes
+1904-QPYBK,Male,0,Yes,No,59,Yes,No phone service,DSL,No,No internet service,Yes,No internet service,No internet service,Yes,One year,No,Mailed check,55.45,3271.55,No
+6429-HZTQW,Male,0,No,Yes,10,Yes,No phone service,DSL,No,No internet service,No,No internet service,Yes,No,One year,No,Credit card (automatic),81.39,813.9,Yes
+9468-HZTQW,Female,0,No,No,26,No,No,No,No internet service,Yes,No,No internet service,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),49.64,1290.64,Yes
+7162-QPYBK,Male,0,No,No,43,Yes,Yes,No,Yes,No internet service,No internet service,No,No internet service,No internet service,Two year,No,Bank transfer (automatic),36.84,1584.12,No
+3959-MOTEO,Female,0,No,Yes,37,No,No,Fiber optic,Yes,No internet service,Yes,No internet service,No,No,One year,No,Mailed check,117.76,4357.12,No
+9748-VHVEG,Female,0,Yes,Yes,29,Yes,No phone service,Fiber optic,No,No,Yes,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),86.97,2522.13,No
+5022-HZTQW,Male,0,Yes,Yes,30,No,Yes,DSL,No,Yes,No internet service,Yes,No,No,One year,Yes,Bank transfer (automatic),112.02,3360.6,No
+4223-QPYBK,Female,0,No,No,61,No,No phone service,No,Yes,Yes,Yes,Yes,No internet service,No,One year,Yes,Electronic check,86.58,5281.38,No
+3690-VHVEG,Male,0,No,No,32,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),99.61,3187.52,No
+5997-GNVDE,Female,0,No,No,23,Yes,No,No,No,No internet service,No,No internet service,No internet service,Yes,One year,No,Mailed check,21.46,493.58,No
+1847-HZTQW,Female,0,Yes,Yes,32,No,No phone service,No,No,No,No internet service,No internet service,Yes,No,Two year,No,Credit card (automatic),41.83,1338.56,No
+3451-QPYBK,Female,0,Yes,No,27,Yes,No,No,No internet service,Yes,Yes,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),61.24,1653.48,No
+8672-VHVEG,Male,0,No,Yes,16,No,Yes,DSL,Yes,No internet service,No internet service,Yes,No,No internet service,Two year,Yes,Mailed check,49.66,794.56,No
+7293-GNVDE,Female,0,Yes,No,34,No,Yes,Fiber optic,No,Yes,No,No internet service,Yes,No,Two year,No,Mailed check,45.6,1550.4,Yes
+5650-VHVEG,Male,0,No,Yes,13,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,42.74,555.62,No
+8005-VHVEG,Female,0,No,No,13,No,Yes,DSL,No internet service,No,No,No internet service,No,Yes,Month-to-month,Yes,Mailed check,39.89,518.57,Yes
+8532-MOTEO,Female,1,No,Yes,57,No,Yes,Fiber optic,No,Yes,No internet service,No internet service,Yes,Yes,Two year,No,Electronic check,30.85,1758.45,Yes
+9944-VHVEG,Male,0,No,Yes,28,No,Yes,No,No,No,Yes,No internet service,Yes,No internet service,Two year,No,Electronic check,73.31,2052.68,No
+1308-QPYBK,Female,0,No,No,26,No,No,No,No internet service,No internet service,No internet service,No internet service,No,No,One year,Yes,Electronic check,76.92,1999.92,No
+8460-GNVDE,Male,1,No,No,29,No,Yes,DSL,No internet service,No internet service,No internet service,No,No internet service,Yes,Two year,Yes,Credit card (automatic),105.12,3048.48,Yes
+9141-GNVDE,Male,0,Yes,Yes,45,Yes,No,No,No internet service,No internet service,No,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),90.73,4082.85,No
+9022-MOTEO,Female,0,Yes,Yes,6,No,Yes,DSL,No,No internet service,No internet service,Yes,Yes,No internet service,Two year,No,Credit card (automatic),98.47,590.82,No
+8443-VHVEG,Male,0,No,No,60,No,No phone service,No,No internet service,No,Yes,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),74.92,4495.2,No
+6049-VHVEG,Female,0,No,No,14,Yes,No phone service,Fiber optic,No internet service,No,No internet service,No,No,No,Month-to-month,No,Mailed check,32.55,455.7,No
+5348-MOTEO,Male,1,No,No,10,No,No,DSL,No,No,No,Yes,No,Yes,One year,No,Mailed check,74.32,743.2,No
+5873-MOTEO,Female,0,Yes,Yes,66,Yes,No phone service,No,No,No,No,No,Yes,No,Two year,No,Mailed check,91.26,6023.16,No
+3221-QPYBK,Male,0,No,Yes,33,No,No,No,Yes,No,No internet service,Yes,Yes,No internet service,Two year,No,Bank transfer (automatic),47.54,1568.82,No
+3752-QPYBK,Female,0,Yes,Yes,3,Yes,No,No,No internet service,No internet service,Yes,No,No,No internet service,Two year,No,Mailed check,69.24,207.72,No
+1915-GNVDE,Male,0,No,Yes,8,No,Yes,Fiber optic,No,No internet service,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),76.13,609.04,No
+6063-QPYBK,Female,0,No,No,70,Yes,No,DSL,Yes,No internet service,No internet service,No,Yes,No internet service,Month-to-month,No,Mailed check,71.34,4993.8,No
+9077-HZTQW,Male,0,No,No,43,No,Yes,No,No internet service,Yes,No internet service,No internet service,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),103.47,4449.21,Yes
+1070-GNVDE,Male,0,No,Yes,43,No,No,Fiber optic,No internet service,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),100.38,4316.34,Yes
+9851-VHVEG,Male,1,No,No,70,No,Yes,DSL,No,No,Yes,Yes,No internet service,No,Two year,Yes,Credit card (automatic),77.08,5395.6,Yes
+6160-GNVDE,Male,0,No,Yes,13,No,No phone service,DSL,No internet service,No,No,No internet service,No internet service,No,Two year,No,Credit card (automatic),44.71,581.23,Yes
+1989-GNVDE,Male,0,No,Yes,7,No,No,No,Yes,No,Yes,No,No,No internet service,Month-to-month,Yes,Electronic check,102.82,719.74,No
+3836-GNVDE,Female,0,Yes,Yes,17,Yes,No phone service,DSL,No internet service,Yes,No internet service,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),26.56,451.52,No
+2805-HZTQW,Male,0,Yes,No,48,Yes,No phone service,DSL,No,Yes,No,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),81.22,3898.56,No
+7018-QPYBK,Male,0,Yes,No,52,Yes,Yes,DSL,Yes,No,No internet service,No,No,No internet service,Two year,No,Electronic check,70.36,3658.72,Yes
+2172-MOTEO,Male,0,No,Yes,44,No,Yes,Fiber optic,No internet service,Yes,No,No,Yes,Yes,Two year,Yes,Mailed check,48.44,2131.36,No
+5393-VHVEG,Female,0,Yes,Yes,25,No,Yes,DSL,No,No,No internet service,No,No internet service,Yes,One year,Yes,Mailed check,111.5,2787.5,No
+1089-MOTEO,Female,0,Yes,No,41,No,No,Fiber optic,Yes,No internet service,No,No,Yes,Yes,One year,Yes,Electronic check,73.93,3031.13,No
+4407-MOTEO,Female,0,No,No,17,No,No,Fiber optic,Yes,No,No internet service,No internet service,Yes,No,One year,No,Electronic check,103.01,1751.17,No
+4455-MOTEO,Male,0,No,No,31,Yes,No,Fiber optic,Yes,Yes,No internet service,No,No internet service,Yes,One year,Yes,Mailed check,58.0,1798.0,No
+1935-GNVDE,Male,0,No,Yes,14,Yes,No,DSL,No,Yes,No internet service,Yes,No,No internet service,Two year,No,Electronic check,74.62,1044.68,No
+6750-GNVDE,Male,0,No,No,12,No,No,DSL,No internet service,Yes,Yes,Yes,No,No internet service,Month-to-month,No,Bank transfer (automatic),112.13,1345.56,No
+1196-MOTEO,Female,0,Yes,No,26,Yes,No,DSL,No,No,No,No internet service,Yes,No internet service,One year,No,Electronic check,114.72,2982.72,No
+6563-GNVDE,Female,0,No,No,71,Yes,No,DSL,No,Yes,Yes,No,No internet service,Yes,Two year,Yes,Bank transfer (automatic),96.78,6871.38,No
+2914-HZTQW,Male,0,No,No,46,Yes,Yes,DSL,No,No,Yes,No internet service,No,No,Month-to-month,Yes,Credit card (automatic),28.09,1292.14,Yes
+3350-HZTQW,Male,0,Yes,Yes,50,Yes,No,DSL,No,Yes,No,No,No internet service,Yes,One year,No,Bank transfer (automatic),26.41,1320.5,Yes
+2306-GNVDE,Male,1,No,No,23,No,No,No,No,Yes,Yes,No internet service,No internet service,No,One year,No,Credit card (automatic),86.52,1989.96,No
+9030-GNVDE,Female,0,Yes,No,68,No,Yes,DSL,Yes,Yes,No,No,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),29.94,2035.92,No
+9637-VHVEG,Male,0,No,No,31,No,No phone service,No,No,Yes,No,No internet service,No,No internet service,One year,No,Electronic check,82.13,2546.03,No
+1989-HZTQW,Male,0,Yes,Yes,40,Yes,No phone service,No,No internet service,Yes,No,Yes,No,No internet service,Two year,No,Credit card (automatic),89.74,3589.6,Yes
+8263-VHVEG,Female,0,No,Yes,40,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),78.62,3144.8,Yes
+1604-HZTQW,Female,0,Yes,Yes,20,Yes,Yes,No,No internet service,No internet service,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,108.52,2170.4,Yes
+2105-GNVDE,Male,0,Yes,No,48,Yes,No phone service,Fiber optic,No,No internet service,Yes,No,No,Yes,Two year,No,Credit card (automatic),95.58,4587.84,Yes
+1790-VHVEG,Female,0,No,No,41,Yes,No phone service,DSL,No,No,No,No,No internet service,Yes,Two year,No,Mailed check,57.46,2355.86,Yes
+4638-MOTEO,Female,0,No,No,28,Yes,No,No,Yes,Yes,No,No internet service,No,No,One year,No,Bank transfer (automatic),43.3,1212.4,No
+2224-VHVEG,Male,1,No,No,25,Yes,No,No,No internet service,Yes,Yes,Yes,No internet service,No internet service,One year,No,Mailed check,23.69,592.25,No
+7352-GNVDE,Male,0,Yes,Yes,57,No,No phone service,No,Yes,No,Yes,No,No,No internet service,Month-to-month,No,Bank transfer (automatic),56.1,3197.7,No
+5535-HZTQW,Female,0,Yes,Yes,65,No,No,No,Yes,No,No,No,No internet service,No internet service,Month-to-month,Yes,Electronic check,27.71,1801.15,No
+8116-HZTQW,Female,0,No,Yes,29,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),26.56,770.24,Yes
+8244-GNVDE,Female,0,No,Yes,15,No,Yes,DSL,Yes,No internet service,No,No internet service,No internet service,No,Two year,Yes,Bank transfer (automatic),54.23,813.45,No
+5052-QPYBK,Male,0,Yes,No,2,Yes,No,DSL,Yes,Yes,No,Yes,No internet service,No,Two year,Yes,Mailed check,25.08,50.16,Yes
+8259-MOTEO,Male,0,Yes,No,65,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),31.36,2038.4,No
+7346-HZTQW,Female,0,Yes,Yes,30,Yes,Yes,Fiber optic,No internet service,No internet service,No,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),54.34,1630.2,Yes
+1483-VHVEG,Female,0,No,No,55,Yes,No,Fiber optic,No internet service,No,No,No internet service,Yes,No,One year,No,Electronic check,28.14,1547.7,Yes
+3457-GNVDE,Female,0,No,Yes,4,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,Yes,No,Yes,Month-to-month,No,Electronic check,60.13,240.52,No
+9876-HZTQW,Male,0,Yes,Yes,21,Yes,No phone service,DSL,No internet service,No internet service,Yes,No,No internet service,No,Month-to-month,No,Credit card (automatic),71.05,1492.05,No
+6731-QPYBK,Female,0,No,No,60,No,Yes,No,No internet service,Yes,No internet service,No internet service,Yes,No,Month-to-month,Yes,Credit card (automatic),105.29,6317.4,Yes
+7458-QPYBK,Male,0,No,No,65,Yes,No phone service,No,No internet service,No internet service,Yes,No internet service,No,Yes,Two year,No,Electronic check,61.79,4016.35,No
+1366-QPYBK,Female,0,Yes,No,37,No,Yes,No,No,Yes,No internet service,No,Yes,No,One year,Yes,Bank transfer (automatic),85.5,3163.5,No
+1565-HZTQW,Male,0,Yes,Yes,64,Yes,Yes,Fiber optic,No internet service,Yes,Yes,No,No internet service,No internet service,Two year,No,Electronic check,79.77,5105.28,Yes
+6841-MOTEO,Female,1,No,No,28,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),61.56,1723.68,No
+3339-GNVDE,Female,0,No,No,32,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Two year,Yes,Mailed check,91.07,2914.24,Yes
+2679-GNVDE,Female,0,No,No,69,No,No,DSL,Yes,No,No,No,No,No internet service,Two year,No,Electronic check,106.77,7367.13,Yes
+5864-GNVDE,Male,0,Yes,Yes,51,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),84.86,4327.86,Yes
+4408-MOTEO,Female,0,No,Yes,62,No,No phone service,DSL,No internet service,No internet service,No internet service,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),82.7,5127.4,No
+2290-QPYBK,Female,1,No,Yes,47,Yes,No phone service,DSL,No internet service,Yes,No,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),35.86,1685.42,No
+5867-MOTEO,Male,1,No,Yes,3,Yes,No,DSL,No internet service,No internet service,Yes,No,No,No internet service,Month-to-month,No,Bank transfer (automatic),61.25,183.75,No
+5312-HZTQW,Female,0,No,Yes,63,No,Yes,Fiber optic,No internet service,No,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),53.49,3369.87,No
+4500-VHVEG,Female,1,Yes,Yes,14,No,No,DSL,No internet service,No internet service,Yes,Yes,No,No,One year,Yes,Mailed check,74.6,1044.4,No
+8337-MOTEO,Male,0,No,Yes,20,Yes,No,DSL,Yes,No internet service,No internet service,No,Yes,No internet service,One year,No,Electronic check,54.61,1092.2,No
+8300-HZTQW,Female,0,Yes,Yes,4,Yes,No,DSL,Yes,Yes,No,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,36.56,146.24,Yes
+9452-QPYBK,Male,0,No,No,4,No,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),83.57,334.28,No
+8469-GNVDE,Female,0,No,Yes,54,No,No,Fiber optic,Yes,No,Yes,No,No internet service,Yes,Month-to-month,No,Mailed check,68.71,3710.34,No
+9631-VHVEG,Female,0,Yes,Yes,66,No,No phone service,Fiber optic,No internet service,No,No internet service,No internet service,Yes,No,One year,No,Mailed check,76.45,5045.7,No
+6963-VHVEG,Female,0,No,Yes,16,Yes,No phone service,DSL,No internet service,No,No internet service,Yes,No,Yes,Two year,No,Credit card (automatic),119.37,1909.92,Yes
+8066-MOTEO,Male,0,No,No,45,No,Yes,Fiber optic,No internet service,No,No,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),75.61,3402.45,No
+7610-HZTQW,Female,0,No,No,71,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,Yes,No,No,Month-to-month,No,Credit card (automatic),104.75,7437.25,No
+7445-GNVDE,Male,1,Yes,No,52,Yes,Yes,No,No internet service,No,No internet service,No,No internet service,No internet service,Month-to-month,No,Electronic check,89.78,4668.56,No
+5154-QPYBK,Female,0,No,No,69,Yes,No phone service,DSL,Yes,Yes,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Credit card (automatic),75.99,5243.31,No
+4276-HZTQW,Female,0,Yes,No,57,No,Yes,DSL,No internet service,No internet service,No internet service,Yes,Yes,Yes,Two year,No,Credit card (automatic),81.88,4667.16,No
+5647-VHVEG,Female,0,Yes,No,43,No,Yes,DSL,No,Yes,No internet service,No internet service,Yes,No,Month-to-month,Yes,Electronic check,35.97,1546.71,No
+5784-VHVEG,Female,1,Yes,Yes,55,Yes,No,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),73.02,4016.1,Yes
+1104-HZTQW,Male,0,No,Yes,47,Yes,Yes,DSL,No,No,No,No,Yes,Yes,One year,No,Electronic check,87.99,4135.53,No
+9143-VHVEG,Male,1,No,Yes,71,No,No,DSL,Yes,No,Yes,Yes,No,No internet service,One year,No,Credit card (automatic),70.78,5025.38,No
+1891-VHVEG,Female,0,No,No,65,No,No phone service,No,Yes,Yes,No internet service,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),85.35,5547.75,No
+3836-QPYBK,Male,0,No,No,44,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,No,Two year,No,Bank transfer (automatic),75.32,3314.08,No
+3431-QPYBK,Female,0,No,No,6,Yes,No,Fiber optic,No,No,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),26.6,159.6,No
+9428-HZTQW,Male,0,Yes,Yes,57,No,No phone service,Fiber optic,No internet service,No internet service,No,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),34.17,1947.69,No
+7801-VHVEG,Female,0,No,Yes,14,Yes,Yes,No,Yes,No,No,No internet service,No,Yes,One year,Yes,Mailed check,115.84,1621.76,No
+4858-VHVEG,Female,0,Yes,No,12,No,No phone service,No,Yes,Yes,Yes,Yes,No internet service,No internet service,One year,Yes,Electronic check,91.08,1092.96,Yes
+7100-HZTQW,Female,0,Yes,Yes,38,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No internet service,Month-to-month,No,Electronic check,56.35,2141.3,No
+7783-QPYBK,Male,0,Yes,No,25,Yes,Yes,Fiber optic,Yes,Yes,Yes,No internet service,Yes,Yes,One year,No,Electronic check,65.01,1625.25,No
+7889-HZTQW,Female,0,No,Yes,15,No,Yes,Fiber optic,No internet service,Yes,Yes,No,No,No,Two year,Yes,Mailed check,80.86,1212.9,Yes
+8453-GNVDE,Male,0,No,No,45,No,No phone service,DSL,No,No,No internet service,No,No,No internet service,Two year,Yes,Electronic check,66.7,3001.5,No
+6031-GNVDE,Male,0,Yes,No,42,No,No phone service,DSL,No,Yes,Yes,Yes,No internet service,No,Two year,Yes,Electronic check,104.42,4385.64,No
+1616-MOTEO,Male,1,No,Yes,35,No,No phone service,DSL,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,102.13,3574.55,No
+6423-MOTEO,Female,0,Yes,Yes,39,No,No phone service,No,No internet service,Yes,No,No internet service,No internet service,No internet service,One year,Yes,Mailed check,113.58,4429.62,No
+1128-QPYBK,Female,0,Yes,No,44,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No,No internet service,Yes,Two year,Yes,Electronic check,58.54,2575.76,No
+2911-MOTEO,Female,0,No,No,71,No,No phone service,DSL,No internet service,No,No,No internet service,No,Yes,Month-to-month,No,Mailed check,42.2,2996.2,No
+8542-VHVEG,Male,0,Yes,Yes,6,No,No,Fiber optic,No internet service,Yes,No,No internet service,Yes,No,One year,No,Electronic check,25.33,151.98,No
+6329-HZTQW,Male,0,Yes,No,36,Yes,No phone service,No,No internet service,No,No,Yes,No,Yes,One year,No,Electronic check,92.54,3331.44,Yes
+2525-VHVEG,Female,0,Yes,No,23,Yes,Yes,DSL,Yes,No,No internet service,No internet service,No,Yes,Two year,No,Electronic check,98.1,2256.3,No
+7978-HZTQW,Female,1,No,No,27,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No internet service,One year,Yes,Bank transfer (automatic),79.37,2142.99,No
+8892-MOTEO,Female,0,No,No,8,Yes,No phone service,DSL,No internet service,Yes,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Mailed check,113.73,909.84,No
+5442-MOTEO,Female,1,Yes,No,24,No,No,Fiber optic,Yes,No,Yes,Yes,No,No internet service,Two year,Yes,Bank transfer (automatic),110.55,2653.2,No
+1564-GNVDE,Female,0,Yes,Yes,7,No,No,Fiber optic,Yes,No internet service,No internet service,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),30.33,212.31,No
+6793-HZTQW,Male,0,Yes,No,25,No,No phone service,Fiber optic,No,No internet service,No internet service,No,No internet service,Yes,One year,Yes,Credit card (automatic),73.8,1845.0,No
+2783-VHVEG,Male,0,No,Yes,0,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,No,No internet service,No,Month-to-month,No,Bank transfer (automatic),105.73,105.73,No
+1167-HZTQW,Male,0,Yes,No,16,No,No phone service,DSL,No,No internet service,No,No,Yes,No,Two year,Yes,Bank transfer (automatic),114.15,1826.4,No
+2014-VHVEG,Female,0,No,Yes,2,No,No,No,No internet service,No internet service,No,No,No internet service,No internet service,One year,No,Electronic check,51.42,102.84,No
+1929-HZTQW,Female,0,No,Yes,32,No,No,DSL,No,Yes,No internet service,No internet service,No,No,Two year,Yes,Electronic check,63.37,2027.84,No
+4934-MOTEO,Male,0,No,Yes,8,No,Yes,Fiber optic,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,47.63,381.04,Yes
+4717-MOTEO,Male,0,No,No,39,No,Yes,DSL,Yes,Yes,No internet service,Yes,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),50.3,1961.7,Yes
+2065-QPYBK,Male,0,No,Yes,2,Yes,No phone service,No,Yes,Yes,No,No internet service,Yes,No internet service,One year,No,Bank transfer (automatic),35.58,71.16,No
+9880-VHVEG,Female,0,Yes,Yes,11,Yes,No,No,Yes,Yes,No internet service,Yes,No internet service,Yes,One year,Yes,Electronic check,88.43,972.73,Yes
+3199-GNVDE,Male,0,No,No,14,No,No phone service,Fiber optic,Yes,No,No internet service,No internet service,No internet service,Yes,One year,Yes,Electronic check,96.95,1357.3,No
+3341-QPYBK,Male,0,No,No,24,Yes,No,DSL,Yes,No internet service,Yes,No,No,Yes,Month-to-month,No,Mailed check,105.6,2534.4,No
+1763-GNVDE,Female,1,No,Yes,27,Yes,No,No,No,No,No,No internet service,No internet service,Yes,Two year,Yes,Bank transfer (automatic),113.54,3065.58,No
+5646-GNVDE,Female,0,Yes,Yes,21,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,106.59,2238.39,No
+8466-VHVEG,Male,1,Yes,No,24,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Two year,Yes,Credit card (automatic),112.71,2705.04,Yes
+4124-VHVEG,Male,0,No,Yes,5,Yes,No,DSL,No internet service,No internet service,No,No internet service,Yes,No internet service,One year,Yes,Mailed check,98.46,492.3,No
+7035-MOTEO,Male,0,Yes,No,52,Yes,No,DSL,Yes,Yes,No,No internet service,No internet service,Yes,One year,Yes,Mailed check,72.57,3773.64,No
+9088-QPYBK,Male,0,No,No,2,No,No phone service,Fiber optic,No internet service,No,Yes,No,Yes,No internet service,Two year,No,Bank transfer (automatic),84.86,169.72,No
+9644-HZTQW,Female,0,No,No,52,No,No phone service,Fiber optic,Yes,Yes,No,No,Yes,No internet service,One year,Yes,Mailed check,69.84,3631.68,Yes
+3341-GNVDE,Male,0,Yes,No,22,No,No,DSL,Yes,Yes,No,No,Yes,No,One year,Yes,Electronic check,99.96,2199.12,No
+9058-GNVDE,Male,0,No,No,55,No,Yes,Fiber optic,No,No,No internet service,No internet service,No,No,Two year,Yes,Bank transfer (automatic),104.68,5757.4,Yes
+3831-MOTEO,Female,0,No,Yes,66,No,Yes,DSL,No,No internet service,Yes,Yes,No internet service,No,One year,Yes,Credit card (automatic),88.95,5870.7,Yes
+1822-MOTEO,Male,0,No,No,38,No,No phone service,Fiber optic,No internet service,Yes,No,No internet service,Yes,Yes,Two year,No,Bank transfer (automatic),85.17,3236.46,No
+4495-MOTEO,Female,0,No,No,39,Yes,No,No,No internet service,Yes,No,No internet service,No internet service,No,Month-to-month,No,Mailed check,52.58,2050.62,No
+5948-VHVEG,Female,1,Yes,Yes,51,Yes,Yes,Fiber optic,No internet service,No,No internet service,No internet service,Yes,No internet service,Two year,No,Bank transfer (automatic),109.35,5576.85,No
+9334-QPYBK,Male,0,No,No,27,Yes,Yes,Fiber optic,No,No internet service,Yes,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),98.91,2670.57,No
+4174-VHVEG,Male,0,No,No,64,Yes,No,Fiber optic,Yes,No internet service,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),100.83,6453.12,Yes
+4732-HZTQW,Male,0,Yes,Yes,22,Yes,Yes,No,No internet service,No,Yes,Yes,Yes,No internet service,One year,Yes,Electronic check,100.05,2201.1,Yes
+5738-MOTEO,Female,0,Yes,Yes,72,Yes,Yes,DSL,No,No internet service,No internet service,No,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),108.08,7781.76,No
+8222-VHVEG,Male,0,Yes,Yes,45,Yes,No phone service,DSL,No,No internet service,No internet service,No,Yes,Yes,One year,Yes,Mailed check,26.1,1174.5,No
+3256-QPYBK,Male,0,Yes,No,38,No,No,Fiber optic,No,No internet service,No,No,No internet service,Yes,Month-to-month,Yes,Mailed check,88.35,3357.3,Yes
+2161-GNVDE,Female,0,Yes,No,70,No,No phone service,Fiber optic,Yes,No,No internet service,Yes,No internet service,Yes,One year,Yes,Credit card (automatic),101.72,7120.4,No
+6930-MOTEO,Female,0,No,No,30,Yes,No,DSL,No internet service,Yes,Yes,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),56.76,1702.8,No
+5307-HZTQW,Male,0,No,No,46,Yes,No,No,No,Yes,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,61.44,2826.24,No
+1333-GNVDE,Female,0,No,Yes,33,No,No phone service,Fiber optic,Yes,No internet service,No,Yes,Yes,No internet service,Two year,Yes,Mailed check,116.51,3844.83,No
+1849-QPYBK,Male,1,No,Yes,57,No,Yes,No,Yes,No internet service,No,Yes,No,No internet service,Two year,No,Credit card (automatic),114.71,6538.47,No
+4176-HZTQW,Female,0,No,Yes,42,No,Yes,DSL,Yes,Yes,Yes,No internet service,No,Yes,Two year,No,Credit card (automatic),73.61,3091.62,Yes
+2255-GNVDE,Male,0,No,Yes,72,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,No internet service,No,Yes,One year,Yes,Credit card (automatic),51.6,3715.2,Yes
+6203-GNVDE,Female,1,No,No,67,No,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,No,Electronic check,42.15,2824.05,No
+3180-MOTEO,Female,0,Yes,No,33,No,No phone service,Fiber optic,No,No,No,Yes,No internet service,No,One year,No,Mailed check,58.27,1922.91,No
+1929-MOTEO,Male,0,Yes,No,57,Yes,Yes,No,No internet service,No,No,No,No internet service,Yes,Two year,No,Electronic check,56.58,3225.06,No
+2478-VHVEG,Male,0,Yes,Yes,26,No,Yes,DSL,No,No,No internet service,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),65.56,1704.56,No
+7742-HZTQW,Female,1,No,Yes,7,Yes,No phone service,Fiber optic,No internet service,No internet service,No internet service,No,Yes,No,Month-to-month,Yes,Electronic check,95.31,667.17,Yes
+3589-QPYBK,Female,0,Yes,Yes,68,No,Yes,No,No,Yes,No,No internet service,Yes,Yes,One year,No,Electronic check,93.99,6391.32,No
+8515-MOTEO,Female,0,No,Yes,52,No,No phone service,Fiber optic,No,Yes,Yes,No,No internet service,No,One year,No,Bank transfer (automatic),46.4,2412.8,No
+9184-GNVDE,Male,0,Yes,Yes,11,Yes,Yes,No,No,No internet service,No,Yes,Yes,No internet service,Month-to-month,No,Credit card (automatic),47.38,521.18,No
+1604-VHVEG,Female,1,Yes,Yes,36,Yes,No phone service,Fiber optic,No internet service,No internet service,No internet service,No internet service,Yes,No,Month-to-month,No,Mailed check,105.85,3810.6,No
+7450-QPYBK,Female,0,No,Yes,55,No,No,Fiber optic,No internet service,No,No internet service,Yes,No,No internet service,Two year,Yes,Credit card (automatic),87.76,4826.8,Yes
+1507-GNVDE,Male,0,Yes,No,21,Yes,No,DSL,Yes,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),38.24,803.04,No
+5240-QPYBK,Male,0,Yes,Yes,27,No,No phone service,No,Yes,No internet service,No,No,Yes,No internet service,One year,No,Credit card (automatic),41.88,1130.76,No
+4975-VHVEG,Female,0,Yes,No,2,No,Yes,No,No internet service,Yes,Yes,No,Yes,No internet service,One year,No,Mailed check,104.19,208.38,No
+5943-VHVEG,Female,0,Yes,Yes,5,No,Yes,No,Yes,No internet service,Yes,No,Yes,No,One year,No,Mailed check,99.91,499.55,No
+3286-HZTQW,Female,0,Yes,No,36,Yes,No phone service,No,No internet service,Yes,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),29.79,1072.44,Yes
+2877-GNVDE,Male,0,No,No,12,No,No,DSL,No,Yes,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),49.09,589.08,No
+6640-MOTEO,Male,0,No,No,25,No,Yes,No,No internet service,No internet service,Yes,Yes,No,No internet service,Two year,No,Mailed check,69.82,1745.5,No
+6157-HZTQW,Male,0,No,Yes,31,No,Yes,Fiber optic,No internet service,Yes,Yes,No internet service,Yes,No internet service,Two year,No,Credit card (automatic),76.37,2367.47,No
+8177-GNVDE,Male,0,Yes,Yes,8,Yes,No phone service,Fiber optic,No internet service,No,Yes,No internet service,No internet service,Yes,Two year,No,Credit card (automatic),70.62,564.96,No
+5905-GNVDE,Female,0,Yes,Yes,60,No,No,No,Yes,No internet service,No internet service,No,Yes,Yes,One year,No,Mailed check,94.23,5653.8,No
+7443-MOTEO,Female,0,Yes,No,66,Yes,Yes,Fiber optic,No,Yes,No,No,No internet service,No,Month-to-month,No,Electronic check,88.92,5868.72,Yes
+2941-QPYBK,Female,0,No,Yes,10,No,No phone service,No,No,Yes,Yes,Yes,No,Yes,Two year,No,Electronic check,95.38,953.8,No
+2051-GNVDE,Male,0,No,No,1,Yes,No,Fiber optic,Yes,No,No internet service,Yes,No,Yes,Month-to-month,No,Electronic check,47.41,47.41,Yes
+7506-GNVDE,Male,0,No,Yes,40,Yes,No,Fiber optic,Yes,No internet service,No internet service,Yes,No internet service,Yes,One year,Yes,Credit card (automatic),57.95,2318.0,No
+8936-VHVEG,Male,0,No,Yes,23,Yes,Yes,Fiber optic,Yes,No internet service,No,No internet service,Yes,No internet service,Two year,Yes,Bank transfer (automatic),94.63,2176.49,No
+7338-QPYBK,Male,0,Yes,Yes,11,No,Yes,DSL,No internet service,No,No,No internet service,No,Yes,One year,Yes,Electronic check,105.18,1156.98,Yes
+9263-MOTEO,Female,0,Yes,Yes,41,No,Yes,Fiber optic,No,No internet service,No internet service,No internet service,No,No,Month-to-month,Yes,Electronic check,88.75,3638.75,No
+1275-QPYBK,Male,0,No,Yes,18,Yes,No phone service,No,No internet service,No,No internet service,Yes,Yes,No,Two year,No,Electronic check,23.49,422.82,No
+8737-GNVDE,Male,0,Yes,No,68,No,No,Fiber optic,Yes,No,No internet service,No internet service,No internet service,No,Month-to-month,Yes,Electronic check,86.52,5883.36,Yes
+3826-QPYBK,Male,0,No,Yes,1,No,No,DSL,No internet service,Yes,Yes,No,No internet service,No,Two year,Yes,Mailed check,27.86,27.86,No
+6905-GNVDE,Male,0,No,No,53,No,No,DSL,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Electronic check,93.62,4961.86,No
+5297-QPYBK,Male,0,Yes,No,36,No,No phone service,No,No internet service,No,Yes,No,Yes,No internet service,Month-to-month,No,Credit card (automatic),102.02,3672.72,No
+3669-VHVEG,Female,0,Yes,No,53,Yes,No phone service,No,No,No,No,Yes,No,No internet service,One year,Yes,Electronic check,49.15,2604.95,No
+3976-QPYBK,Female,0,No,No,50,Yes,No,DSL,No internet service,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),60.06,3003.0,No
+6818-HZTQW,Male,0,Yes,No,50,No,No phone service,Fiber optic,No internet service,Yes,No internet service,Yes,Yes,No,Month-to-month,No,Electronic check,55.65,2782.5,No
+6369-VHVEG,Female,0,Yes,No,72,No,No,No,No internet service,Yes,Yes,No,Yes,No internet service,Month-to-month,Yes,Mailed check,79.89,5752.08,No
+5310-MOTEO,Female,0,No,No,35,No,Yes,DSL,No,No,No,Yes,No,No,Two year,Yes,Mailed check,93.86,3285.1,Yes
+7026-VHVEG,Female,0,No,Yes,39,Yes,No phone service,DSL,No,No,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),20.6,803.4,No
+2069-GNVDE,Female,0,Yes,Yes,29,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Electronic check,48.64,1410.56,Yes
+9443-QPYBK,Female,0,Yes,No,18,No,No phone service,Fiber optic,No,Yes,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),88.33,1589.94,Yes
+8792-MOTEO,Male,0,Yes,No,60,No,No phone service,DSL,No internet service,Yes,No,No internet service,No,Yes,One year,No,Credit card (automatic),94.12,5647.2,Yes
+7286-VHVEG,Male,0,Yes,No,31,Yes,No,No,No internet service,No internet service,No,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,24.38,755.78,No
+8368-QPYBK,Male,0,Yes,No,47,Yes,No phone service,No,No,No,Yes,Yes,No,No,One year,Yes,Bank transfer (automatic),91.75,4312.25,No
+7357-MOTEO,Male,0,Yes,Yes,27,Yes,Yes,DSL,No,No internet service,No internet service,No internet service,No,Yes,One year,No,Electronic check,59.35,1602.45,No
+5896-QPYBK,Female,1,Yes,Yes,24,No,Yes,DSL,Yes,No internet service,Yes,No internet service,Yes,No,Month-to-month,Yes,Mailed check,96.71,2321.04,No
+9606-GNVDE,Female,0,No,Yes,32,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Two year,Yes,Electronic check,111.83,3578.56,No
+9911-HZTQW,Male,0,Yes,Yes,24,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Electronic check,48.96,1175.04,No
+9638-MOTEO,Male,0,No,No,34,No,No,Fiber optic,No,Yes,No internet service,No internet service,Yes,No internet service,Month-to-month,Yes,Mailed check,80.96,2752.64,Yes
+7162-HZTQW,Female,0,No,No,57,Yes,Yes,Fiber optic,Yes,No internet service,No,No internet service,No internet service,No,One year,No,Bank transfer (automatic),23.2,1322.4,No
+3828-MOTEO,Male,1,No,Yes,8,No,No phone service,No,No internet service,Yes,No internet service,No internet service,No,Yes,One year,No,Bank transfer (automatic),35.35,282.8,Yes
+3974-MOTEO,Female,0,No,Yes,21,No,Yes,No,No internet service,No internet service,No,No,No internet service,No internet service,Two year,Yes,Electronic check,91.07,1912.47,No
+6113-HZTQW,Male,0,No,No,2,Yes,No,DSL,No,No,Yes,No,No,No internet service,Month-to-month,Yes,Mailed check,65.47,130.94,Yes
+2762-QPYBK,Female,0,No,No,19,No,No phone service,No,No internet service,Yes,No internet service,No internet service,No,No,One year,No,Electronic check,48.36,918.84,Yes
+2072-GNVDE,Female,0,No,No,20,No,No phone service,DSL,Yes,No internet service,Yes,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),47.66,953.2,No
+9542-MOTEO,Female,1,Yes,Yes,12,Yes,Yes,No,Yes,No internet service,No internet service,No,No,No,Month-to-month,Yes,Electronic check,75.83,909.96,No
+6781-MOTEO,Female,1,No,No,44,Yes,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,65.45,2879.8,Yes
+3779-HZTQW,Male,0,No,No,7,Yes,Yes,Fiber optic,No internet service,No,No,No,Yes,Yes,Two year,Yes,Mailed check,101.98,713.86,Yes
+4864-HZTQW,Female,0,Yes,Yes,40,No,No phone service,No,No internet service,No,No internet service,Yes,No internet service,No,Two year,No,Electronic check,37.89,1515.6,No
+5981-MOTEO,Female,0,No,No,25,Yes,No,DSL,No internet service,No internet service,No,Yes,No,No,One year,Yes,Credit card (automatic),99.3,2482.5,Yes
+9785-HZTQW,Male,0,Yes,Yes,65,No,Yes,No,No internet service,No,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),82.92,5389.8,Yes
+3522-HZTQW,Male,0,Yes,Yes,19,Yes,No,Fiber optic,No,Yes,No,Yes,No internet service,Yes,Two year,No,Bank transfer (automatic),24.6,467.4,No
+7791-VHVEG,Male,1,No,No,10,Yes,No phone service,No,No,No internet service,No internet service,Yes,No,No,Month-to-month,Yes,Credit card (automatic),86.8,868.0,No
+4070-HZTQW,Male,1,Yes,No,4,No,Yes,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),58.18,232.72,Yes
+9362-HZTQW,Male,1,Yes,No,1,No,No,DSL,Yes,No internet service,No internet service,Yes,Yes,No,Two year,Yes,Mailed check,80.6,80.6,No
+9523-HZTQW,Male,0,Yes,No,64,No,No phone service,No,No internet service,Yes,No,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),54.9,3513.6,No
+3859-VHVEG,Male,0,Yes,Yes,22,No,No,DSL,No,No,Yes,Yes,No,Yes,Two year,No,Mailed check,30.36,667.92,No
+7152-MOTEO,Male,0,Yes,No,32,No,Yes,No,No internet service,Yes,No internet service,No,No internet service,No,Two year,Yes,Bank transfer (automatic),103.97,3327.04,Yes
+2889-GNVDE,Female,0,Yes,Yes,7,Yes,No,Fiber optic,No internet service,No,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),98.39,688.73,No
+3228-GNVDE,Female,0,No,No,42,Yes,Yes,DSL,No,Yes,Yes,No internet service,No,No,Month-to-month,No,Credit card (automatic),90.51,3801.42,Yes
+9086-MOTEO,Female,0,Yes,No,1,No,Yes,DSL,Yes,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,34.61,34.61,No
+4860-GNVDE,Male,1,No,No,68,No,No phone service,No,Yes,No internet service,Yes,Yes,No internet service,No,Month-to-month,No,Credit card (automatic),118.13,8032.84,No
+7062-GNVDE,Female,0,No,Yes,63,Yes,Yes,DSL,No internet service,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,83.29,5247.27,Yes
+5401-QPYBK,Male,0,Yes,Yes,9,Yes,No,No,No,No,No internet service,Yes,Yes,No,One year,No,Electronic check,98.17,883.53,No
+6442-VHVEG,Male,1,Yes,Yes,44,No,No phone service,DSL,No internet service,No internet service,No,Yes,No,No internet service,Two year,Yes,Credit card (automatic),22.1,972.4,No
+7528-MOTEO,Female,0,No,Yes,71,Yes,No phone service,No,No internet service,No,Yes,No internet service,Yes,No internet service,One year,Yes,Mailed check,40.9,2903.9,No
+9378-VHVEG,Male,1,Yes,No,48,No,No phone service,Fiber optic,Yes,Yes,Yes,No,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),30.12,1445.76,No
+3217-QPYBK,Female,1,Yes,No,71,No,No,Fiber optic,Yes,No internet service,Yes,No internet service,No internet service,Yes,Month-to-month,No,Credit card (automatic),84.07,5968.97,Yes
+5607-HZTQW,Female,0,No,No,39,No,Yes,No,No internet service,Yes,No,Yes,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),23.56,918.84,No
+8565-QPYBK,Female,0,No,Yes,58,No,No,No,Yes,No,No internet service,Yes,No internet service,No,Month-to-month,No,Mailed check,100.47,5827.26,No
+9734-QPYBK,Female,0,No,Yes,15,No,No phone service,Fiber optic,No,Yes,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Mailed check,86.53,1297.95,Yes
+6576-MOTEO,Female,1,Yes,No,59,Yes,Yes,DSL,Yes,No internet service,No,No,No internet service,No internet service,Month-to-month,No,Mailed check,111.45,6575.55,No
+2514-GNVDE,Female,0,No,Yes,67,Yes,Yes,No,Yes,No,No,Yes,No,No,One year,No,Electronic check,52.59,3523.53,No
+1126-QPYBK,Male,0,Yes,No,49,Yes,No,DSL,Yes,Yes,Yes,Yes,No internet service,Yes,Two year,Yes,Credit card (automatic),29.45,1443.05,No
+2767-HZTQW,Female,0,No,Yes,26,No,Yes,DSL,No,No,No internet service,Yes,Yes,No,One year,Yes,Electronic check,79.16,2058.16,No
+7972-VHVEG,Male,0,Yes,No,65,No,No phone service,DSL,No internet service,No,No,No internet service,No,Yes,Month-to-month,No,Electronic check,98.02,6371.3,Yes
+2067-QPYBK,Female,0,Yes,No,5,Yes,No phone service,DSL,No internet service,No internet service,Yes,No,No internet service,No,Two year,Yes,Electronic check,63.99,319.95,Yes
+9259-GNVDE,Male,0,No,No,11,Yes,No,No,Yes,No,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),54.14,595.54,No
+5636-QPYBK,Male,0,No,Yes,63,Yes,No phone service,No,No internet service,Yes,Yes,No,No internet service,Yes,One year,Yes,Bank transfer (automatic),96.23,6062.49,No
+2324-MOTEO,Female,0,No,Yes,68,Yes,No phone service,No,No internet service,No internet service,Yes,No,Yes,No,One year,Yes,Credit card (automatic),78.04,5306.72,Yes
+7194-VHVEG,Female,0,Yes,Yes,27,No,No phone service,Fiber optic,Yes,Yes,No internet service,No internet service,Yes,No,Two year,No,Electronic check,113.84,3073.68,No
+8630-GNVDE,Male,0,Yes,Yes,15,Yes,No phone service,DSL,Yes,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,No,Credit card (automatic),92.47,1387.05,No
+5810-QPYBK,Male,0,Yes,No,18,No,No phone service,Fiber optic,No,No internet service,No internet service,No,Yes,No internet service,One year,Yes,Electronic check,111.24,2002.32,Yes
+6201-VHVEG,Female,0,Yes,Yes,13,No,No,DSL,No internet service,Yes,No internet service,No internet service,No,Yes,One year,No,Mailed check,111.24,1446.12,No
+1537-GNVDE,Male,0,Yes,Yes,3,No,No phone service,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),77.57,232.71,No
+4869-VHVEG,Female,0,No,No,52,Yes,No,DSL,Yes,No,No,Yes,No internet service,Yes,Two year,Yes,Mailed check,86.04,4474.08,Yes
+9091-MOTEO,Female,0,Yes,Yes,49,No,Yes,No,No,No,No internet service,No,Yes,Yes,Month-to-month,Yes,Mailed check,54.74,2682.26,Yes
+1841-GNVDE,Female,0,Yes,Yes,51,No,Yes,DSL,Yes,No,No internet service,No,No internet service,No internet service,One year,Yes,Mailed check,33.49,1707.99,No
+5528-GNVDE,Male,0,No,No,22,Yes,No phone service,DSL,No internet service,No internet service,Yes,Yes,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),72.09,1585.98,No
+8940-HZTQW,Female,0,Yes,No,10,Yes,Yes,DSL,No,No,No internet service,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),24.47,244.7,No
+6137-VHVEG,Female,0,Yes,Yes,53,Yes,No,DSL,No internet service,No,Yes,Yes,No internet service,No internet service,One year,No,Bank transfer (automatic),108.22,5735.66,No
+4028-MOTEO,Female,0,Yes,No,61,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No internet service,Yes,Two year,Yes,Bank transfer (automatic),93.82,5723.02,Yes
+4515-GNVDE,Male,0,No,Yes,56,No,Yes,Fiber optic,No,No,No,Yes,No internet service,No,Two year,Yes,Credit card (automatic),85.53,4789.68,No
+6017-VHVEG,Female,1,No,Yes,53,No,Yes,No,No internet service,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),97.47,5165.91,No
+8682-HZTQW,Male,0,No,No,65,No,No phone service,Fiber optic,No,No,No internet service,Yes,No internet service,No,One year,Yes,Electronic check,44.57,2897.05,Yes
+7962-QPYBK,Male,0,Yes,Yes,52,No,No phone service,DSL,No,No,No internet service,No,No internet service,Yes,Two year,Yes,Bank transfer (automatic),67.69,3519.88,No
+5803-HZTQW,Female,0,No,Yes,30,No,No phone service,Fiber optic,No,No internet service,No,No internet service,No,No internet service,Month-to-month,Yes,Electronic check,56.26,1687.8,No
+5384-MOTEO,Male,1,Yes,Yes,70,Yes,Yes,DSL,No,No internet service,No,Yes,Yes,Yes,Two year,No,Mailed check,70.07,4904.9,Yes
+6563-GNVDE,Female,0,No,No,18,Yes,No phone service,No,Yes,No,No,No internet service,No,No,One year,No,Electronic check,82.22,1479.96,No
+9196-HZTQW,Male,0,No,Yes,7,Yes,Yes,No,No,No internet service,No internet service,Yes,No,No internet service,One year,Yes,Credit card (automatic),23.64,165.48,No
+1726-MOTEO,Female,0,Yes,Yes,37,Yes,Yes,DSL,No internet service,No internet service,Yes,Yes,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),37.51,1387.87,No
+8757-VHVEG,Male,0,Yes,Yes,27,Yes,No,No,Yes,Yes,No,No,No,Yes,Two year,Yes,Mailed check,95.36,2574.72,Yes
+5700-HZTQW,Male,0,No,Yes,59,No,Yes,Fiber optic,No internet service,No,No,No,No,No,One year,No,Bank transfer (automatic),83.8,4944.2,No
+8888-MOTEO,Male,1,No,No,39,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,No internet service,No internet service,Yes,Two year,No,Bank transfer (automatic),86.08,3357.12,No
+4013-MOTEO,Male,0,No,Yes,24,Yes,Yes,No,No internet service,Yes,No,No,Yes,Yes,One year,Yes,Mailed check,100.29,2406.96,No
+1185-QPYBK,Female,0,Yes,Yes,36,No,Yes,DSL,No internet service,No internet service,Yes,Yes,Yes,No internet service,One year,Yes,Bank transfer (automatic),56.33,2027.88,Yes
+4365-VHVEG,Male,0,Yes,Yes,43,Yes,No,DSL,No internet service,Yes,Yes,No internet service,Yes,Yes,Two year,Yes,Electronic check,31.0,1333.0,Yes
+6633-MOTEO,Male,1,No,No,47,No,No phone service,Fiber optic,No internet service,No internet service,Yes,No internet service,No,No,One year,No,Mailed check,24.77,1164.19,No
+8621-GNVDE,Male,0,Yes,Yes,12,Yes,No phone service,No,No internet service,No internet service,No internet service,No,No internet service,Yes,One year,No,Credit card (automatic),115.29,1383.48,No
+3506-HZTQW,Female,0,No,Yes,61,Yes,Yes,No,No internet service,No,No,Yes,No internet service,Yes,Month-to-month,No,Credit card (automatic),79.95,4876.95,No
+4638-HZTQW,Female,0,No,Yes,58,No,No phone service,No,No,No,No internet service,Yes,No,No,One year,Yes,Mailed check,83.6,4848.8,Yes
+7568-QPYBK,Female,1,No,Yes,61,No,No phone service,DSL,No internet service,Yes,No,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),112.59,6867.99,No
+1791-GNVDE,Male,0,No,Yes,30,No,Yes,DSL,Yes,No,No internet service,Yes,No,Yes,Month-to-month,No,Electronic check,23.08,692.4,Yes
+4588-QPYBK,Female,0,No,Yes,71,Yes,Yes,DSL,No,No,No,No,Yes,No internet service,One year,No,Mailed check,72.4,5140.4,Yes
+8763-VHVEG,Male,1,Yes,No,35,No,No phone service,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),63.64,2227.4,No
+5691-QPYBK,Male,1,Yes,Yes,13,No,No phone service,DSL,No internet service,Yes,No,Yes,Yes,Yes,One year,No,Bank transfer (automatic),100.26,1303.38,No
+5455-GNVDE,Female,0,No,No,39,Yes,No phone service,No,Yes,No internet service,Yes,No,No,No,One year,No,Mailed check,110.21,4298.19,No
+7956-GNVDE,Male,1,Yes,No,54,No,No phone service,Fiber optic,No internet service,Yes,No internet service,No internet service,No,No internet service,Month-to-month,No,Credit card (automatic),62.02,3349.08,No
+8265-HZTQW,Male,0,Yes,Yes,25,Yes,No phone service,DSL,No,No,No internet service,No internet service,Yes,Yes,Two year,Yes,Mailed check,45.32,1133.0,No
+9910-GNVDE,Female,0,Yes,No,48,Yes,Yes,No,No internet service,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),93.92,4508.16,No
+7291-HZTQW,Male,0,No,Yes,43,Yes,No,Fiber optic,No,No internet service,No internet service,No,Yes,No,One year,Yes,Electronic check,34.05,1464.15,No
+8902-HZTQW,Female,1,Yes,No,7,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,29.52,206.64,No
+1568-VHVEG,Male,0,No,Yes,67,No,No phone service,No,Yes,Yes,No internet service,Yes,Yes,No,Two year,No,Mailed check,27.94,1871.98,No
+4184-GNVDE,Female,1,Yes,Yes,64,No,No,Fiber optic,Yes,Yes,No,No,Yes,No,One year,No,Credit card (automatic),86.27,5521.28,Yes
+8783-VHVEG,Male,0,No,No,54,Yes,Yes,DSL,No,No,No,Yes,No,Yes,Two year,No,Bank transfer (automatic),96.16,5192.64,Yes
+8403-VHVEG,Male,1,Yes,Yes,43,No,No phone service,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,68.78,2957.54,No
+1439-GNVDE,Female,0,Yes,Yes,44,No,Yes,Fiber optic,No,No internet service,No internet service,No,Yes,Yes,Month-to-month,No,Electronic check,42.68,1877.92,Yes
+4023-QPYBK,Female,0,No,No,35,Yes,Yes,Fiber optic,No internet service,No,Yes,Yes,No internet service,No,One year,No,Mailed check,79.65,2787.75,No
+9024-QPYBK,Female,0,No,Yes,58,Yes,No,DSL,No,No internet service,No,No internet service,Yes,Yes,Two year,No,Credit card (automatic),32.67,1894.86,Yes
+2381-HZTQW,Male,0,No,No,61,No,No,No,Yes,Yes,No,No,Yes,Yes,Two year,No,Bank transfer (automatic),54.06,3297.66,Yes
+3171-GNVDE,Female,0,No,No,4,Yes,No phone service,Fiber optic,Yes,No,No internet service,No internet service,Yes,No internet service,Two year,No,Bank transfer (automatic),23.04,92.16,No
+5468-MOTEO,Male,1,Yes,No,60,Yes,No,No,No internet service,Yes,No,No,No internet service,Yes,Two year,Yes,Electronic check,57.38,3442.8,Yes
+2460-MOTEO,Female,0,No,No,4,No,Yes,Fiber optic,No internet service,Yes,No,Yes,No,No,One year,No,Mailed check,107.49,429.96,No
+7917-GNVDE,Female,0,Yes,Yes,55,Yes,No,DSL,Yes,No,Yes,Yes,No internet service,No,Month-to-month,Yes,Mailed check,118.65,6525.75,Yes
+8216-VHVEG,Male,0,Yes,Yes,68,Yes,No,Fiber optic,No,No internet service,No,No,No internet service,Yes,Two year,Yes,Mailed check,31.86,2166.48,No
+8049-GNVDE,Male,0,No,Yes,41,No,No phone service,Fiber optic,No,Yes,No,No internet service,No internet service,No internet service,Two year,No,Mailed check,57.58,2360.78,No
+7877-MOTEO,Female,0,Yes,Yes,67,No,No,DSL,Yes,Yes,No internet service,No,Yes,Yes,Two year,No,Mailed check,58.24,3902.08,No
+1549-QPYBK,Female,1,Yes,Yes,16,No,Yes,No,No internet service,No internet service,No internet service,Yes,Yes,Yes,Two year,No,Electronic check,62.08,993.28,No
+9920-MOTEO,Male,0,Yes,No,72,No,No phone service,Fiber optic,No internet service,No,Yes,No,Yes,No internet service,Two year,Yes,Mailed check,64.78,4664.16,No
+6193-GNVDE,Male,0,Yes,No,16,Yes,Yes,No,No,No internet service,No,Yes,No internet service,No internet service,Two year,No,Electronic check,28.62,457.92,No
+3761-VHVEG,Male,0,No,Yes,12,Yes,No,Fiber optic,No,No internet service,Yes,No,No internet service,No,Two year,No,Electronic check,60.47,725.64,No
+7444-HZTQW,Male,0,Yes,Yes,3,Yes,Yes,No,No,No,Yes,Yes,No,No internet service,Two year,No,Mailed check,39.22,117.66,Yes
+5297-VHVEG,Male,0,No,No,71,Yes,No,No,No internet service,No internet service,No,No internet service,Yes,No,Month-to-month,Yes,Bank transfer (automatic),70.3,4991.3,Yes
+7589-MOTEO,Female,0,No,Yes,31,Yes,No,Fiber optic,No internet service,No,No internet service,Yes,No,Yes,Month-to-month,Yes,Mailed check,35.22,1091.82,Yes
+6899-GNVDE,Female,0,No,Yes,68,Yes,No phone service,DSL,Yes,Yes,No,No internet service,No,Yes,Two year,No,Bank transfer (automatic),74.21,5046.28,No
+1388-HZTQW,Male,0,Yes,No,0,No,No phone service,DSL,No,No internet service,No,No internet service,No,Yes,Month-to-month,Yes,Electronic check,91.44,91.44,Yes
+4491-VHVEG,Male,0,Yes,No,72,No,Yes,No,No,No,Yes,No internet service,No,Yes,One year,No,Electronic check,85.7,6170.4,No
+3717-HZTQW,Male,0,No,No,70,Yes,Yes,No,No,No internet service,Yes,No internet service,No internet service,Yes,Two year,No,Mailed check,96.81,6776.7,No
+2574-QPYBK,Female,0,Yes,Yes,69,No,No phone service,DSL,No,No,Yes,No internet service,Yes,No internet service,One year,Yes,Credit card (automatic),92.97,6414.93,Yes
+9603-VHVEG,Female,0,Yes,No,6,Yes,Yes,Fiber optic,No,No internet service,No,No,No internet service,No internet service,One year,Yes,Mailed check,109.82,658.92,No
+8775-GNVDE,Female,0,Yes,No,27,Yes,Yes,DSL,No,Yes,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),100.28,2707.56,No
+6352-VHVEG,Female,0,Yes,Yes,33,Yes,No phone service,No,Yes,Yes,Yes,No internet service,No,No internet service,One year,Yes,Credit card (automatic),90.13,2974.29,No
+7813-VHVEG,Female,0,No,Yes,5,No,Yes,No,Yes,No,Yes,No internet service,No,No internet service,Month-to-month,No,Mailed check,41.33,206.65,No
+5662-QPYBK,Male,0,No,No,24,Yes,No,DSL,No internet service,No internet service,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),37.1,890.4,Yes
+8813-VHVEG,Male,0,No,No,71,Yes,No phone service,DSL,No internet service,No internet service,No internet service,No internet service,No,Yes,One year,No,Electronic check,99.37,7055.27,No
+4062-QPYBK,Male,0,Yes,Yes,51,Yes,No,DSL,No internet service,No internet service,No,Yes,No,No internet service,Month-to-month,No,Mailed check,67.88,3461.88,Yes
+1583-QPYBK,Female,0,No,Yes,34,Yes,No,DSL,No,Yes,No,No,No,No,One year,Yes,Electronic check,33.83,1150.22,No
+5103-MOTEO,Female,1,No,Yes,37,No,No,No,No internet service,No,Yes,Yes,Yes,No,Two year,Yes,Electronic check,72.59,2685.83,Yes
+3135-GNVDE,Male,0,No,Yes,40,No,Yes,No,Yes,Yes,Yes,Yes,No internet service,No,One year,No,Bank transfer (automatic),28.02,1120.8,No
+5038-MOTEO,Female,0,Yes,No,27,No,No phone service,Fiber optic,No internet service,No internet service,Yes,No internet service,No,No,One year,No,Electronic check,102.08,2756.16,No
+4883-GNVDE,Male,0,No,No,72,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Two year,No,Mailed check,30.16,2171.52,No
+6867-HZTQW,Male,0,Yes,No,72,Yes,No phone service,DSL,No,Yes,No internet service,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),40.86,2941.92,Yes
+1899-QPYBK,Male,0,Yes,Yes,40,No,No,No,Yes,No,No internet service,No internet service,No internet service,No,Two year,Yes,Electronic check,58.45,2338.0,Yes
+8707-HZTQW,Male,1,Yes,Yes,8,No,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),82.24,657.92,Yes
+4064-GNVDE,Male,1,No,No,23,Yes,Yes,DSL,Yes,Yes,No internet service,Yes,No,No,Two year,No,Bank transfer (automatic),29.4,676.2,Yes
+6653-QPYBK,Female,0,Yes,Yes,60,No,Yes,Fiber optic,Yes,No,No internet service,No,No internet service,Yes,Two year,Yes,Electronic check,37.17,2230.2,No
+8938-HZTQW,Male,0,Yes,No,25,No,No phone service,No,Yes,No internet service,Yes,Yes,Yes,No internet service,One year,Yes,Bank transfer (automatic),47.03,1175.75,No
+5929-MOTEO,Male,0,Yes,Yes,47,No,Yes,No,No,No internet service,No internet service,No internet service,Yes,Yes,One year,Yes,Credit card (automatic),80.54,3785.38,No
+9936-MOTEO,Female,0,Yes,Yes,63,Yes,Yes,Fiber optic,Yes,No internet service,Yes,No internet service,No internet service,Yes,One year,No,Bank transfer (automatic),107.04,6743.52,No
+7520-VHVEG,Female,1,No,No,23,Yes,No phone service,No,Yes,No,No,No,Yes,No internet service,One year,No,Credit card (automatic),77.45,1781.35,No
+1175-HZTQW,Male,0,Yes,Yes,60,Yes,No,No,Yes,Yes,No internet service,No,No,Yes,One year,Yes,Credit card (automatic),57.98,3478.8,Yes
+9713-HZTQW,Female,0,Yes,Yes,55,No,No,No,Yes,Yes,No,No internet service,No internet service,No,Two year,No,Bank transfer (automatic),70.46,3875.3,No
+5209-QPYBK,Male,0,Yes,Yes,47,Yes,Yes,No,Yes,No internet service,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),52.01,2444.47,No
+5365-HZTQW,Male,0,No,Yes,28,No,No,Fiber optic,No internet service,Yes,No internet service,No internet service,No internet service,No,Month-to-month,No,Bank transfer (automatic),113.42,3175.76,No
+4283-HZTQW,Male,0,No,No,49,No,No phone service,No,No internet service,No internet service,Yes,No internet service,No,No internet service,Two year,Yes,Electronic check,56.15,2751.35,No
+2647-MOTEO,Female,0,Yes,No,72,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),112.18,8076.96,No
+5639-MOTEO,Male,0,No,Yes,27,Yes,No,Fiber optic,No,No internet service,Yes,Yes,No internet service,Yes,One year,No,Mailed check,107.91,2913.57,No
+3621-QPYBK,Male,0,No,No,17,No,No,No,No internet service,No,No internet service,No,No internet service,No,One year,No,Mailed check,21.22,360.74,Yes
+2741-VHVEG,Male,0,Yes,No,70,No,No,DSL,No internet service,Yes,No internet service,Yes,No,Yes,Two year,No,Bank transfer (automatic),20.77,1453.9,Yes
+2959-MOTEO,Female,0,Yes,No,64,No,No phone service,No,Yes,No,No,No internet service,Yes,Yes,Two year,No,Electronic check,114.02,7297.28,No
+7903-GNVDE,Male,0,No,Yes,72,Yes,No phone service,DSL,No,No internet service,No internet service,Yes,No internet service,No,One year,No,Electronic check,23.54,1694.88,No
+4003-GNVDE,Female,0,No,Yes,8,No,No,Fiber optic,No internet service,No,No internet service,No,No internet service,Yes,Two year,No,Electronic check,110.68,885.44,No
+4622-MOTEO,Female,0,Yes,Yes,55,No,No,Fiber optic,No,Yes,No,No,No internet service,Yes,Two year,No,Credit card (automatic),21.96,1207.8,No
+5063-GNVDE,Male,1,Yes,No,52,No,No phone service,DSL,No,No,No internet service,No,No,No internet service,Two year,Yes,Mailed check,100.37,5219.24,No
+6261-GNVDE,Male,0,No,Yes,70,Yes,No,DSL,No,No,No,Yes,No,Yes,Month-to-month,No,Mailed check,75.11,5257.7,No
+9486-MOTEO,Male,0,No,No,46,Yes,No phone service,No,No internet service,Yes,No,No internet service,No,Yes,Two year,Yes,Electronic check,49.55,2279.3,No
+6638-GNVDE,Female,0,No,No,70,No,Yes,Fiber optic,No,No,No internet service,Yes,No,No internet service,One year,No,Mailed check,84.05,5883.5,No
+9767-HZTQW,Female,1,No,No,39,Yes,No,No,No internet service,Yes,No internet service,Yes,Yes,No,Two year,No,Bank transfer (automatic),25.56,996.84,No
+1404-HZTQW,Male,1,Yes,Yes,53,Yes,No phone service,DSL,No internet service,No internet service,No internet service,No internet service,Yes,Yes,One year,No,Credit card (automatic),79.79,4228.87,No
+2098-VHVEG,Male,1,No,Yes,19,No,No phone service,DSL,No internet service,No internet service,Yes,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),86.64,1646.16,Yes
+5849-VHVEG,Male,0,Yes,No,46,Yes,Yes,DSL,No,No,No,No,No,No internet service,Month-to-month,Yes,Mailed check,95.17,4377.82,No
+9534-VHVEG,Female,0,Yes,No,14,No,No phone service,Fiber optic,Yes,No internet service,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,105.8,1481.2,No
+5381-QPYBK,Female,0,No,Yes,4,No,No,DSL,No,No,No internet service,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),73.18,292.72,Yes
+4906-QPYBK,Male,0,No,Yes,71,No,No,DSL,No internet service,No internet service,No internet service,No,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),21.59,1532.89,No
+8263-QPYBK,Male,1,No,No,6,No,No phone service,No,Yes,No internet service,No,No,No internet service,No,Two year,Yes,Mailed check,92.71,556.26,No
+3996-MOTEO,Male,0,No,No,49,No,No phone service,DSL,No internet service,No,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),94.49,4630.01,No
+4933-HZTQW,Female,0,No,Yes,29,No,Yes,No,No internet service,Yes,No,No internet service,No,No,Two year,No,Credit card (automatic),76.33,2213.57,No
+6317-GNVDE,Male,0,Yes,Yes,55,No,No phone service,DSL,No,Yes,No internet service,Yes,Yes,No internet service,Two year,Yes,Electronic check,37.61,2068.55,No
+7712-HZTQW,Male,1,Yes,Yes,70,No,No,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,23.07,1614.9,No
+6630-VHVEG,Male,0,Yes,Yes,6,Yes,No phone service,DSL,No,No internet service,No,No,No,Yes,One year,No,Bank transfer (automatic),99.22,595.32,No
+6690-VHVEG,Female,0,Yes,Yes,42,No,No,No,No,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,No,Credit card (automatic),72.53,3046.26,No
+8084-QPYBK,Male,0,Yes,No,39,No,Yes,DSL,No internet service,Yes,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),50.36,1964.04,Yes
+4040-VHVEG,Male,0,Yes,Yes,41,No,No phone service,Fiber optic,No,No internet service,No internet service,No internet service,Yes,Yes,Two year,Yes,Bank transfer (automatic),96.34,3949.94,Yes
+4072-GNVDE,Male,0,No,No,38,Yes,Yes,DSL,No,No internet service,Yes,No,No,Yes,Month-to-month,No,Mailed check,110.2,4187.6,No
+5661-GNVDE,Male,0,No,Yes,42,Yes,No,No,No internet service,No internet service,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),60.64,2546.88,No
+3386-VHVEG,Female,0,No,Yes,1,No,Yes,DSL,Yes,No internet service,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),109.39,109.39,Yes
+1675-GNVDE,Female,0,No,Yes,34,No,Yes,Fiber optic,Yes,No internet service,No,No internet service,No,Yes,One year,No,Bank transfer (automatic),64.05,2177.7,No
+7399-HZTQW,Female,0,No,Yes,26,Yes,Yes,Fiber optic,Yes,No,No internet service,No internet service,No,No,One year,No,Bank transfer (automatic),61.93,1610.18,No
+4833-HZTQW,Female,1,Yes,No,65,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,One year,Yes,Electronic check,85.12,5532.8,Yes
+8275-QPYBK,Female,0,Yes,Yes,6,Yes,No phone service,DSL,No internet service,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),91.95,551.7,No
+2896-HZTQW,Male,0,No,Yes,53,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,One year,No,Electronic check,100.87,5346.11,No
+3509-HZTQW,Male,0,Yes,No,46,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,97.42,4481.32,No
+1083-MOTEO,Male,0,Yes,Yes,69,Yes,No,No,No internet service,No,No internet service,Yes,Yes,Yes,Month-to-month,No,Mailed check,50.74,3501.06,No
+6006-VHVEG,Female,0,No,No,20,No,Yes,DSL,No,No internet service,No internet service,No,No,No,One year,No,Mailed check,115.28,2305.6,No
+5824-QPYBK,Female,0,Yes,Yes,15,No,Yes,DSL,No internet service,Yes,No,No,No internet service,No,One year,Yes,Credit card (automatic),114.92,1723.8,No
+2060-VHVEG,Male,0,No,No,46,No,No phone service,Fiber optic,No,No internet service,No,No internet service,Yes,No internet service,One year,Yes,Bank transfer (automatic),38.34,1763.64,Yes
+4001-HZTQW,Male,0,Yes,No,42,Yes,No,Fiber optic,Yes,No,No,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),107.56,4517.52,No
+2471-HZTQW,Male,1,No,No,23,No,No,Fiber optic,Yes,No internet service,No internet service,No,Yes,Yes,Month-to-month,No,Electronic check,80.95,1861.85,No
+1010-HZTQW,Male,1,Yes,Yes,26,No,No,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),44.39,1154.14,No
+9081-GNVDE,Male,0,No,No,69,No,No,DSL,No internet service,No,No,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),60.45,4171.05,No
+1419-HZTQW,Female,0,No,Yes,42,Yes,Yes,No,No internet service,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Mailed check,34.8,1461.6,No
+9491-HZTQW,Male,0,No,Yes,5,No,No phone service,No,No internet service,No,Yes,No internet service,Yes,No internet service,One year,Yes,Electronic check,36.77,183.85,No
+2790-QPYBK,Female,0,Yes,Yes,0,Yes,No phone service,No,No internet service,Yes,Yes,No,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),103.34,103.34,No
+7435-HZTQW,Female,0,No,Yes,34,No,No,DSL,No,No internet service,Yes,No,No,No internet service,Month-to-month,No,Electronic check,70.67,2402.78,No
+4548-MOTEO,Male,0,No,Yes,16,No,No phone service,No,No internet service,No,No internet service,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),92.43,1478.88,No
+7050-VHVEG,Female,0,Yes,No,47,No,No,Fiber optic,Yes,No internet service,No,No,No,No,One year,Yes,Mailed check,115.87,5445.89,Yes
+8209-HZTQW,Male,0,No,Yes,50,No,No,No,No internet service,Yes,Yes,No internet service,Yes,Yes,Month-to-month,No,Mailed check,31.95,1597.5,Yes
+6517-MOTEO,Female,0,No,Yes,9,No,No,No,No,No,Yes,No,Yes,No internet service,Two year,No,Mailed check,64.86,583.74,Yes
+4631-VHVEG,Female,1,Yes,Yes,12,No,Yes,DSL,No internet service,No internet service,No,No,Yes,No,Two year,Yes,Bank transfer (automatic),83.7,1004.4,No
+5145-VHVEG,Male,0,Yes,Yes,66,Yes,Yes,Fiber optic,Yes,No internet service,No,Yes,Yes,No,Two year,No,Credit card (automatic),68.6,4527.6,No
+3499-GNVDE,Male,0,Yes,Yes,10,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No,No,One year,Yes,Bank transfer (automatic),50.51,505.1,Yes
+9113-HZTQW,Female,0,Yes,No,65,Yes,No,No,No internet service,No,Yes,No internet service,No,No internet service,Two year,Yes,Credit card (automatic),43.19,2807.35,No
+7363-VHVEG,Female,0,Yes,No,63,No,No phone service,DSL,Yes,No,Yes,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,53.48,3369.24,No
+5443-HZTQW,Male,0,Yes,Yes,40,Yes,No phone service,DSL,No,No internet service,Yes,No,Yes,No,One year,Yes,Electronic check,31.54,1261.6,No
+8809-QPYBK,Male,0,No,No,11,Yes,No phone service,DSL,No internet service,No internet service,No internet service,No,No,No,One year,No,Credit card (automatic),92.56,1018.16,Yes
+7207-QPYBK,Female,0,No,No,12,No,No phone service,DSL,Yes,No,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Mailed check,117.06,1404.72,Yes
+5241-QPYBK,Male,0,No,No,68,No,No,No,No internet service,Yes,No internet service,No,Yes,Yes,Month-to-month,No,Electronic check,21.8,1482.4,No
+5972-GNVDE,Male,0,No,Yes,0,Yes,No,Fiber optic,No internet service,No,No,Yes,No,No internet service,Two year,No,Electronic check,94.27,94.27,No
+1279-MOTEO,Male,0,Yes,No,10,No,No,Fiber optic,No internet service,No internet service,No,Yes,No internet service,No internet service,Two year,Yes,Credit card (automatic),69.15,691.5,Yes
+5790-QPYBK,Male,0,No,Yes,32,No,Yes,No,No,Yes,No internet service,No,Yes,No internet service,Two year,No,Electronic check,90.59,2898.88,Yes
+2745-HZTQW,Female,0,Yes,Yes,6,No,Yes,Fiber optic,No,No,No,No internet service,No,Yes,One year,No,Mailed check,72.28,433.68,Yes
+1760-QPYBK,Female,0,No,Yes,56,No,No,Fiber optic,No internet service,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,25.5,1428.0,No
+3491-VHVEG,Female,1,No,No,62,No,No,DSL,No internet service,Yes,Yes,Yes,No,No,Two year,Yes,Mailed check,52.81,3274.22,No
+3736-VHVEG,Male,0,No,No,13,Yes,Yes,No,No,Yes,No internet service,Yes,No,No,One year,Yes,Credit card (automatic),68.29,887.77,No
+1794-MOTEO,Female,0,No,No,19,Yes,Yes,No,No,No internet service,No,Yes,No internet service,No,One year,Yes,Credit card (automatic),111.98,2127.62,Yes
+2330-GNVDE,Male,1,Yes,No,69,Yes,No phone service,No,No,No,No internet service,No,Yes,Yes,One year,No,Mailed check,63.22,4362.18,No
+8356-GNVDE,Female,0,Yes,No,55,Yes,Yes,No,Yes,No,No,No internet service,No,No,One year,No,Credit card (automatic),110.55,6080.25,No
+9309-HZTQW,Male,0,No,Yes,40,No,Yes,Fiber optic,No internet service,No,No,No internet service,No,No,Month-to-month,Yes,Mailed check,41.64,1665.6,No
+9462-GNVDE,Male,0,No,No,22,No,No,No,No,No,Yes,No,No,No internet service,One year,Yes,Bank transfer (automatic),20.32,447.04,No
+3331-HZTQW,Male,0,No,Yes,47,No,Yes,DSL,No,No internet service,Yes,Yes,No,No internet service,Month-to-month,Yes,Electronic check,60.62,2849.14,No
+1212-VHVEG,Female,1,Yes,No,15,No,No,No,Yes,No internet service,No internet service,No,No internet service,No internet service,Two year,No,Bank transfer (automatic),51.86,777.9,Yes
+8280-GNVDE,Female,0,No,Yes,18,No,No,Fiber optic,No internet service,No internet service,No,No,No internet service,Yes,One year,No,Credit card (automatic),64.69,1164.42,No
+8459-HZTQW,Male,0,No,No,45,Yes,Yes,DSL,No,No,No internet service,No internet service,No internet service,No,One year,No,Electronic check,49.27,2217.15,No
+9810-VHVEG,Female,0,Yes,No,53,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,No internet service,Yes,Month-to-month,No,Credit card (automatic),71.77,3803.81,Yes
+8774-HZTQW,Male,0,Yes,No,39,Yes,No phone service,DSL,Yes,Yes,No internet service,No,No internet service,Yes,One year,No,Bank transfer (automatic),117.74,4591.86,No
+2121-MOTEO,Male,0,Yes,No,3,No,Yes,Fiber optic,Yes,No,Yes,No,No,No internet service,Month-to-month,No,Credit card (automatic),96.51,289.53,No
+8895-GNVDE,Female,1,No,Yes,41,No,Yes,Fiber optic,Yes,No internet service,Yes,No,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),78.25,3208.25,No
+9662-QPYBK,Male,0,No,Yes,65,No,No,Fiber optic,No internet service,No internet service,Yes,No internet service,No,Yes,One year,Yes,Mailed check,64.29,4178.85,No
+6880-GNVDE,Female,0,No,Yes,42,No,No phone service,Fiber optic,No internet service,No,Yes,Yes,Yes,No internet service,Two year,Yes,Credit card (automatic),47.0,1974.0,No
+5481-MOTEO,Male,0,Yes,Yes,65,No,No,No,Yes,No internet service,No,Yes,No internet service,No internet service,Month-to-month,No,Mailed check,64.56,4196.4,Yes
+9533-GNVDE,Female,0,No,No,33,No,Yes,No,Yes,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,No,Electronic check,118.32,3904.56,No
+9272-MOTEO,Male,0,Yes,Yes,21,Yes,Yes,No,Yes,No,No,No,Yes,No,Two year,Yes,Credit card (automatic),36.45,765.45,Yes
+9121-HZTQW,Female,0,Yes,No,41,No,No phone service,No,No internet service,No,No,No,Yes,No,Month-to-month,No,Mailed check,23.75,973.75,No
+8011-VHVEG,Female,0,Yes,No,71,No,Yes,No,No,Yes,Yes,No internet service,No internet service,No,One year,Yes,Bank transfer (automatic),91.13,6470.23,Yes
+2537-MOTEO,Female,0,No,No,54,Yes,No phone service,DSL,Yes,No,No internet service,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),31.71,1712.34,No
+1694-QPYBK,Male,0,Yes,Yes,53,No,No phone service,No,No internet service,No internet service,Yes,No internet service,No,No,Two year,Yes,Mailed check,43.72,2317.16,Yes
+2670-QPYBK,Female,1,Yes,No,43,Yes,No phone service,DSL,No internet service,No,No internet service,Yes,No internet service,No,Month-to-month,No,Bank transfer (automatic),98.71,4244.53,Yes
+9682-QPYBK,Female,1,Yes,Yes,47,No,No phone service,Fiber optic,No,No internet service,Yes,No internet service,Yes,No internet service,One year,Yes,Credit card (automatic),111.66,5248.02,Yes
+5389-MOTEO,Female,0,No,No,29,Yes,Yes,DSL,Yes,Yes,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Electronic check,64.55,1871.95,Yes
+1863-GNVDE,Male,0,No,Yes,45,Yes,Yes,Fiber optic,No internet service,Yes,No,No internet service,Yes,No internet service,Month-to-month,No,Mailed check,62.08,2793.6,No
+4686-HZTQW,Male,1,No,Yes,27,Yes,No,Fiber optic,No internet service,Yes,No,No,No,Yes,One year,No,Electronic check,98.18,2650.86,No
+4283-QPYBK,Male,1,Yes,No,59,Yes,Yes,Fiber optic,No,No internet service,No internet service,No,Yes,No,Two year,No,Bank transfer (automatic),48.44,2857.96,No
+5598-MOTEO,Male,0,No,No,15,No,Yes,No,Yes,Yes,Yes,No,No internet service,No internet service,One year,Yes,Bank transfer (automatic),107.46,1611.9,No
+9673-GNVDE,Male,0,No,No,7,No,No phone service,Fiber optic,No,No internet service,No,No,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),59.32,415.24,No
+5660-GNVDE,Female,0,Yes,Yes,13,No,No,No,Yes,No,No internet service,No,Yes,Yes,Month-to-month,No,Mailed check,21.01,273.13,No
+7961-GNVDE,Female,0,Yes,Yes,54,No,No,No,Yes,No,Yes,No,No,No internet service,One year,No,Credit card (automatic),60.52,3268.08,No
+7945-VHVEG,Male,0,No,No,57,No,No phone service,Fiber optic,No internet service,No internet service,No internet service,No internet service,No,No,Two year,No,Mailed check,43.19,2461.83,No
+5147-MOTEO,Male,0,Yes,No,15,No,No,Fiber optic,No internet service,No,No internet service,No,No,No internet service,One year,No,Bank transfer (automatic),49.81,747.15,No
+4156-HZTQW,Female,0,No,No,16,Yes,No,Fiber optic,No,No internet service,No internet service,No internet service,No,Yes,Two year,Yes,Mailed check,63.0,1008.0,No
+7313-QPYBK,Male,0,No,Yes,20,No,Yes,Fiber optic,No internet service,No internet service,No,Yes,No internet service,No,Month-to-month,No,Electronic check,61.22,1224.4,No
+8455-VHVEG,Male,0,No,No,72,No,Yes,Fiber optic,No internet service,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),96.02,6913.44,No
+4439-MOTEO,Male,0,Yes,Yes,21,Yes,No,No,No,No internet service,Yes,No,No,Yes,One year,Yes,Credit card (automatic),83.11,1745.31,Yes
+8013-QPYBK,Female,0,No,No,43,Yes,No phone service,Fiber optic,No internet service,No,No,No internet service,No,Yes,Month-to-month,Yes,Electronic check,108.58,4668.94,Yes
+5549-VHVEG,Female,1,No,Yes,63,No,No,DSL,Yes,No,Yes,No,Yes,No internet service,One year,No,Electronic check,112.2,7068.6,No
+3160-QPYBK,Male,0,Yes,No,36,No,No,DSL,No,Yes,No internet service,Yes,No internet service,Yes,Two year,Yes,Mailed check,93.0,3348.0,Yes
+4595-VHVEG,Female,0,No,Yes,34,No,Yes,No,Yes,No internet service,No internet service,No,No,No,Two year,No,Bank transfer (automatic),94.55,3214.7,No
+7645-GNVDE,Female,1,Yes,No,64,No,No,No,No,No internet service,No internet service,Yes,No,No,Month-to-month,No,Electronic check,109.3,6995.2,Yes
+1838-QPYBK,Female,0,No,No,8,No,No phone service,No,Yes,No internet service,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),119.99,959.92,No
+2401-QPYBK,Male,0,No,No,68,Yes,No phone service,No,No,No,No internet service,No,No internet service,Yes,One year,No,Electronic check,96.81,6583.08,No
+3169-MOTEO,Female,0,No,Yes,13,No,No,DSL,No internet service,Yes,No,No internet service,No,Yes,One year,No,Electronic check,106.11,1379.43,No
+9262-GNVDE,Male,0,Yes,Yes,63,No,No,Fiber optic,Yes,No internet service,No internet service,No internet service,Yes,Yes,Two year,Yes,Bank transfer (automatic),75.55,4759.65,No
+1222-GNVDE,Male,0,No,Yes,67,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,No internet service,No,Two year,Yes,Bank transfer (automatic),62.06,4158.02,Yes
+2226-QPYBK,Male,0,Yes,Yes,6,No,No,DSL,Yes,Yes,No internet service,No internet service,No,Yes,Two year,Yes,Mailed check,78.35,470.1,No
+2106-HZTQW,Male,0,No,Yes,70,Yes,No phone service,DSL,Yes,Yes,No,No internet service,Yes,No internet service,Two year,No,Credit card (automatic),21.78,1524.6,No
+3010-QPYBK,Female,0,No,No,8,Yes,Yes,No,Yes,No internet service,Yes,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),90.43,723.44,No
+6512-HZTQW,Female,0,Yes,No,72,Yes,No phone service,No,Yes,No,No internet service,Yes,No,No,One year,No,Credit card (automatic),117.88,8487.36,No
+9226-VHVEG,Male,0,No,No,17,No,Yes,DSL,No internet service,No,No,No internet service,Yes,No,One year,Yes,Mailed check,63.53,1080.01,No
+4972-VHVEG,Male,1,No,Yes,20,No,No,Fiber optic,No internet service,No,No,Yes,No internet service,No,Month-to-month,No,Credit card (automatic),24.99,499.8,Yes
+5568-HZTQW,Male,0,No,No,72,Yes,No phone service,No,No,No,No internet service,No internet service,No internet service,No,Month-to-month,No,Mailed check,25.15,1810.8,No
+3987-QPYBK,Male,0,Yes,Yes,54,No,Yes,No,Yes,No internet service,No,Yes,No internet service,Yes,Month-to-month,Yes,Mailed check,24.14,1303.56,No
+8581-MOTEO,Female,0,Yes,Yes,36,Yes,No,DSL,No,Yes,Yes,No,Yes,No,Two year,Yes,Electronic check,42.6,1533.6,No
+7206-QPYBK,Male,0,Yes,Yes,19,No,No,Fiber optic,No,Yes,No,No internet service,Yes,Yes,Month-to-month,No,Bank transfer (automatic),105.78,2009.82,Yes
+4230-HZTQW,Female,0,Yes,Yes,60,Yes,No,No,No,No internet service,Yes,Yes,No,No internet service,Month-to-month,No,Bank transfer (automatic),76.67,4600.2,Yes
+5129-GNVDE,Male,0,No,Yes,20,Yes,Yes,No,No,Yes,No,No internet service,Yes,No,Month-to-month,Yes,Mailed check,106.83,2136.6,Yes
+3951-MOTEO,Female,1,Yes,No,58,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,90.25,5234.5,No
+9123-VHVEG,Female,0,Yes,Yes,35,Yes,No,Fiber optic,Yes,No internet service,No,No internet service,No internet service,No internet service,One year,No,Mailed check,42.45,1485.75,No
+4561-HZTQW,Male,0,Yes,No,58,Yes,No phone service,Fiber optic,No internet service,No internet service,No,No,No,Yes,Two year,No,Mailed check,75.38,4372.04,No
+7020-VHVEG,Male,1,Yes,Yes,58,No,No phone service,DSL,No internet service,No,No,Yes,No,No internet service,Month-to-month,Yes,Credit card (automatic),32.69,1896.02,No
+1174-QPYBK,Female,0,Yes,No,63,No,No,DSL,No,No,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Mailed check,41.17,2593.71,No
+5361-MOTEO,Female,0,Yes,No,61,No,Yes,Fiber optic,No internet service,No,No internet service,Yes,No internet service,Yes,One year,Yes,Bank transfer (automatic),116.87,7129.07,No
+5555-MOTEO,Female,0,No,No,68,No,No,Fiber optic,No,No internet service,No internet service,No internet service,Yes,No,Two year,No,Bank transfer (automatic),54.23,3687.64,No
+8686-HZTQW,Male,0,Yes,No,19,Yes,No phone service,DSL,No internet service,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,41.49,788.31,No
+5587-HZTQW,Male,0,No,No,65,No,No,DSL,Yes,No,No internet service,No internet service,No,Yes,One year,Yes,Bank transfer (automatic),52.37,3404.05,Yes
+1674-MOTEO,Male,0,No,No,64,Yes,No phone service,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,91.12,5831.68,Yes
+9974-QPYBK,Female,0,Yes,No,53,Yes,No,No,Yes,No,No internet service,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),22.26,1179.78,No
+1258-MOTEO,Male,0,Yes,No,68,No,No,DSL,No internet service,No internet service,No internet service,No,No,No internet service,Two year,Yes,Credit card (automatic),104.15,7082.2,No
+1307-MOTEO,Female,0,No,Yes,27,Yes,Yes,Fiber optic,No,No,No internet service,Yes,Yes,No,Two year,Yes,Mailed check,87.77,2369.79,No
+9296-VHVEG,Female,1,No,No,55,No,Yes,DSL,Yes,Yes,No,Yes,No,No internet service,One year,No,Electronic check,32.4,1782.0,Yes
+5689-QPYBK,Female,1,No,Yes,50,Yes,No,No,No internet service,No internet service,No internet service,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),52.31,2615.5,No
+8021-VHVEG,Female,0,Yes,No,28,Yes,No,DSL,No internet service,Yes,Yes,Yes,No internet service,No,Month-to-month,Yes,Mailed check,78.28,2191.84,Yes
+6381-GNVDE,Female,0,Yes,No,18,No,No,DSL,No internet service,No internet service,No,No,No internet service,No,Month-to-month,Yes,Mailed check,80.28,1445.04,No
+3713-HZTQW,Male,0,Yes,No,45,Yes,No phone service,DSL,No internet service,Yes,Yes,No internet service,No internet service,No,Month-to-month,Yes,Credit card (automatic),73.22,3294.9,No
+6671-VHVEG,Male,0,No,Yes,32,No,No phone service,DSL,No,No,No internet service,No,Yes,No internet service,Two year,Yes,Bank transfer (automatic),30.58,978.56,No
+1355-VHVEG,Male,0,Yes,Yes,5,Yes,Yes,DSL,Yes,Yes,No,No internet service,No,Yes,One year,No,Electronic check,28.95,144.75,No
+1482-GNVDE,Female,0,Yes,No,34,No,No,Fiber optic,No internet service,Yes,No internet service,No internet service,Yes,Yes,Month-to-month,No,Credit card (automatic),94.58,3215.72,Yes
+4545-QPYBK,Male,1,Yes,Yes,23,Yes,Yes,Fiber optic,No,No,No,No internet service,Yes,Yes,Two year,Yes,Bank transfer (automatic),71.67,1648.41,No
+2006-GNVDE,Male,1,No,Yes,58,No,Yes,No,Yes,No internet service,Yes,No,Yes,No internet service,One year,No,Bank transfer (automatic),74.44,4317.52,No
+4973-HZTQW,Male,1,No,No,18,Yes,Yes,Fiber optic,Yes,No,No,No internet service,No,No,Month-to-month,Yes,Credit card (automatic),109.75,1975.5,Yes
+2710-GNVDE,Female,0,Yes,Yes,31,Yes,Yes,No,Yes,No,No,Yes,No internet service,No,Two year,Yes,Mailed check,113.73,3525.63,No
+4860-HZTQW,Female,0,Yes,No,44,No,Yes,Fiber optic,No,Yes,No,No internet service,Yes,No,One year,No,Credit card (automatic),91.6,4030.4,Yes
+1032-QPYBK,Female,0,Yes,Yes,37,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,Yes,Yes,No internet service,One year,Yes,Bank transfer (automatic),100.38,3714.06,No
+4906-MOTEO,Male,0,No,No,50,Yes,No,No,No,No internet service,No,Yes,No,No,Two year,Yes,Credit card (automatic),104.05,5202.5,No
+3471-VHVEG,Female,0,No,Yes,7,No,No phone service,Fiber optic,Yes,No,Yes,No,No internet service,No internet service,Month-to-month,Yes,Electronic check,74.0,518.0,No
+7355-GNVDE,Male,0,Yes,Yes,35,No,No,No,Yes,No,Yes,No internet service,No internet service,Yes,Two year,Yes,Mailed check,103.42,3619.7,Yes
+4267-HZTQW,Female,1,No,Yes,42,No,No,Fiber optic,No,No internet service,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),55.9,2347.8,Yes
+6635-HZTQW,Male,0,Yes,Yes,32,Yes,Yes,Fiber optic,Yes,No internet service,Yes,No internet service,Yes,No,Month-to-month,Yes,Bank transfer (automatic),95.55,3057.6,No
+9475-HZTQW,Female,0,Yes,Yes,7,No,No phone service,DSL,Yes,Yes,No,No internet service,Yes,No,One year,Yes,Credit card (automatic),98.16,687.12,No
+8968-MOTEO,Female,0,No,Yes,49,Yes,Yes,DSL,No internet service,No,No internet service,No,No internet service,No,Month-to-month,Yes,Mailed check,50.62,2480.38,No
+9389-MOTEO,Female,0,No,No,44,No,Yes,No,No,Yes,Yes,No internet service,Yes,No,Month-to-month,Yes,Electronic check,76.23,3354.12,Yes
+1755-HZTQW,Female,0,Yes,Yes,46,No,No phone service,Fiber optic,No,No,No,No internet service,No,No,Two year,No,Electronic check,34.24,1575.04,No
+9658-HZTQW,Female,0,No,Yes,55,No,No,No,Yes,No,Yes,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,67.92,3735.6,No
+5771-MOTEO,Male,1,No,No,17,No,No phone service,Fiber optic,Yes,Yes,No internet service,No internet service,No internet service,No,Two year,Yes,Mailed check,69.16,1175.72,No
+4710-HZTQW,Male,0,No,Yes,15,No,No,Fiber optic,No internet service,No internet service,No internet service,No,Yes,No internet service,Two year,No,Bank transfer (automatic),58.91,883.65,No
+2960-MOTEO,Female,0,Yes,No,45,Yes,No phone service,No,No internet service,No internet service,No internet service,Yes,No internet service,No internet service,One year,No,Mailed check,46.03,2071.35,Yes
+1767-MOTEO,Female,0,No,No,58,Yes,No,DSL,No,No internet service,No internet service,No internet service,No internet service,Yes,One year,No,Credit card (automatic),27.02,1567.16,Yes
+7146-QPYBK,Female,0,Yes,No,33,No,Yes,Fiber optic,Yes,No,No,Yes,No internet service,No internet service,One year,No,Bank transfer (automatic),32.0,1056.0,No
+8062-VHVEG,Female,0,No,No,36,Yes,Yes,DSL,No internet service,No internet service,Yes,No,No internet service,Yes,Month-to-month,No,Credit card (automatic),63.39,2282.04,No
+4059-MOTEO,Female,0,Yes,No,22,No,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),26.41,581.02,No
+5891-MOTEO,Female,1,No,Yes,3,Yes,No,DSL,No internet service,Yes,No internet service,No,No internet service,No internet service,Two year,No,Electronic check,26.39,79.17,Yes
+2581-QPYBK,Male,0,No,No,37,Yes,Yes,No,Yes,No,No internet service,Yes,Yes,Yes,Two year,No,Credit card (automatic),57.67,2133.79,Yes
+5686-HZTQW,Male,0,No,No,3,No,No phone service,Fiber optic,Yes,No internet service,No internet service,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),46.92,140.76,No
+1411-VHVEG,Male,1,Yes,Yes,18,Yes,No phone service,DSL,Yes,Yes,No internet service,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),79.24,1426.32,Yes
+1769-MOTEO,Female,0,Yes,No,2,Yes,No,DSL,Yes,No,No,No,No,Yes,Two year,Yes,Credit card (automatic),118.25,236.5,No
+8085-GNVDE,Female,0,Yes,No,17,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No internet service,No,Yes,Month-to-month,No,Credit card (automatic),61.86,1051.62,No
+1961-MOTEO,Male,0,No,No,72,Yes,No,Fiber optic,No internet service,No,Yes,No internet service,No,No,One year,Yes,Bank transfer (automatic),45.0,3240.0,No
+2562-GNVDE,Female,0,Yes,No,35,Yes,No phone service,DSL,No internet service,No,No,No internet service,No internet service,Yes,One year,No,Mailed check,66.52,2328.2,No
+1117-HZTQW,Male,0,Yes,No,54,Yes,No,DSL,No,Yes,No,No,No,No internet service,Two year,Yes,Credit card (automatic),25.4,1371.6,Yes
+2823-GNVDE,Female,1,No,No,43,No,No phone service,No,No internet service,Yes,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),47.66,2049.38,No
+1190-QPYBK,Female,0,No,No,58,Yes,No,DSL,No,Yes,No internet service,Yes,No internet service,No,One year,No,Bank transfer (automatic),117.07,6790.06,No
+3103-HZTQW,Male,1,Yes,Yes,20,Yes,No phone service,No,No,Yes,No,No,No internet service,No internet service,Two year,Yes,Electronic check,60.41,1208.2,Yes
+4472-HZTQW,Female,0,Yes,No,0,Yes,No,No,No,Yes,Yes,Yes,No internet service,Yes,One year,Yes,Bank transfer (automatic),105.05,105.05,No
+1412-VHVEG,Female,0,No,No,67,Yes,No,No,No,Yes,Yes,No internet service,No,No,Two year,Yes,Mailed check,115.5,7738.5,No
+1914-VHVEG,Female,0,No,Yes,43,No,No phone service,No,Yes,No,Yes,No,No internet service,No,One year,Yes,Mailed check,32.76,1408.68,No
+7357-VHVEG,Female,1,Yes,Yes,37,Yes,No phone service,DSL,No,No internet service,Yes,No,No internet service,No internet service,Month-to-month,Yes,Electronic check,57.66,2133.42,Yes
+4940-GNVDE,Female,0,No,Yes,22,Yes,No,No,No internet service,Yes,No internet service,Yes,No,No,Two year,No,Electronic check,32.98,725.56,No
+4743-VHVEG,Male,0,Yes,Yes,20,Yes,Yes,No,No internet service,No,No internet service,No,No internet service,Yes,One year,Yes,Electronic check,35.3,706.0,No
+3893-GNVDE,Female,1,No,No,38,No,Yes,Fiber optic,No,Yes,No internet service,Yes,No,No,One year,Yes,Credit card (automatic),109.15,4147.7,Yes
+9035-QPYBK,Male,0,No,No,19,Yes,Yes,DSL,Yes,No,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Electronic check,103.86,1973.34,No
+2475-GNVDE,Male,0,No,No,38,Yes,No phone service,DSL,No internet service,No,No,No internet service,Yes,Yes,Two year,No,Bank transfer (automatic),93.67,3559.46,No
+8969-VHVEG,Male,0,No,Yes,66,No,Yes,Fiber optic,No,No internet service,No internet service,No internet service,Yes,No internet service,Two year,Yes,Bank transfer (automatic),103.58,6836.28,No
+6256-QPYBK,Male,0,Yes,Yes,24,No,No phone service,No,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),55.78,1338.72,No
+9819-MOTEO,Female,0,No,No,24,Yes,No,Fiber optic,No internet service,No internet service,No,No internet service,No,No,One year,No,Bank transfer (automatic),80.78,1938.72,No
+6580-MOTEO,Female,0,No,Yes,13,No,No,DSL,No,Yes,Yes,Yes,No,No internet service,One year,No,Electronic check,105.67,1373.71,Yes
+8979-QPYBK,Male,1,No,Yes,67,Yes,No phone service,No,No internet service,No internet service,Yes,Yes,No internet service,No,Month-to-month,No,Electronic check,84.03,5630.01,Yes
+2360-VHVEG,Male,1,No,Yes,30,No,No,No,No internet service,No,No internet service,No internet service,No,Yes,Two year,No,Mailed check,29.5,885.0,No
+1228-QPYBK,Male,0,No,No,44,Yes,No,Fiber optic,Yes,No,No,No internet service,No,No internet service,Two year,Yes,Bank transfer (automatic),24.17,1063.48,Yes
+9583-MOTEO,Female,1,Yes,No,46,No,Yes,DSL,No,Yes,No internet service,No internet service,No,No internet service,One year,Yes,Mailed check,79.24,3645.04,No
+8653-MOTEO,Male,0,No,Yes,56,Yes,No phone service,Fiber optic,No internet service,No internet service,No,Yes,No internet service,No,One year,Yes,Electronic check,65.3,3656.8,No
+3732-GNVDE,Female,0,No,Yes,22,No,Yes,Fiber optic,No,No internet service,No internet service,No internet service,Yes,No,One year,No,Electronic check,67.35,1481.7,Yes
+5071-QPYBK,Female,0,Yes,Yes,50,Yes,No,No,Yes,Yes,No,Yes,Yes,No,One year,No,Bank transfer (automatic),80.21,4010.5,Yes
+8474-VHVEG,Male,0,No,No,50,No,Yes,DSL,No,No internet service,No,Yes,No internet service,No internet service,One year,No,Bank transfer (automatic),34.98,1749.0,No
+5540-HZTQW,Male,1,Yes,No,11,Yes,No phone service,DSL,No,Yes,No,No,No,No internet service,Two year,No,Bank transfer (automatic),38.53,423.83,No
+5704-GNVDE,Female,0,No,Yes,57,Yes,No,DSL,No internet service,No,No internet service,No internet service,Yes,No internet service,Two year,Yes,Electronic check,119.48,6810.36,No
+3168-GNVDE,Male,0,No,No,41,No,Yes,Fiber optic,No internet service,No internet service,No internet service,No internet service,No,Yes,Month-to-month,Yes,Mailed check,52.4,2148.4,No
+2326-HZTQW,Female,1,Yes,Yes,29,No,No,Fiber optic,Yes,No,No internet service,Yes,Yes,No internet service,Two year,Yes,Bank transfer (automatic),105.68,3064.72,No
+7006-MOTEO,Male,0,No,No,23,No,Yes,DSL,No,No internet service,No,No,No internet service,No internet service,Month-to-month,Yes,Electronic check,46.89,1078.47,No
+3568-HZTQW,Male,0,No,Yes,70,Yes,Yes,DSL,No internet service,No internet service,Yes,No internet service,No,No internet service,Month-to-month,No,Mailed check,41.66,2916.2,No
+1398-HZTQW,Female,0,No,Yes,32,Yes,No,No,No,No,No internet service,No internet service,No,No internet service,One year,Yes,Bank transfer (automatic),46.0,1472.0,No
+2766-GNVDE,Male,0,Yes,Yes,71,No,No,Fiber optic,Yes,No,No,No internet service,No internet service,Yes,Two year,Yes,Electronic check,27.69,1965.99,No
+8786-VHVEG,Female,0,No,Yes,1,Yes,No,No,No,No internet service,No internet service,No internet service,No internet service,No,One year,No,Credit card (automatic),25.98,25.98,No
+9386-VHVEG,Female,0,No,Yes,50,No,No phone service,No,No internet service,No internet service,Yes,No,No,Yes,One year,No,Bank transfer (automatic),46.09,2304.5,No
+7373-GNVDE,Female,0,No,Yes,44,No,No,Fiber optic,No internet service,No internet service,No,Yes,No,No,Month-to-month,No,Electronic check,95.7,4210.8,Yes
+2415-MOTEO,Female,0,Yes,Yes,44,No,No phone service,DSL,Yes,No internet service,Yes,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),114.66,5045.04,Yes
+2187-VHVEG,Female,0,Yes,Yes,15,No,Yes,DSL,No internet service,Yes,No internet service,No internet service,No,No,One year,No,Electronic check,75.61,1134.15,No
+8659-HZTQW,Male,0,No,No,48,Yes,No,Fiber optic,Yes,No internet service,No internet service,No,Yes,Yes,Two year,Yes,Credit card (automatic),112.85,5416.8,No
+9997-HZTQW,Male,0,Yes,Yes,70,No,Yes,Fiber optic,Yes,Yes,No internet service,No internet service,Yes,No,Month-to-month,No,Electronic check,24.84,1738.8,Yes
+5224-GNVDE,Female,0,Yes,Yes,61,Yes,Yes,DSL,No internet service,No internet service,Yes,Yes,No internet service,No,Two year,No,Electronic check,94.89,5788.29,No
+5373-MOTEO,Male,0,Yes,Yes,6,No,Yes,Fiber optic,No internet service,Yes,No,No internet service,No,No internet service,Two year,Yes,Credit card (automatic),21.63,129.78,No
+9657-QPYBK,Male,0,Yes,No,17,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,No,Credit card (automatic),109.46,1860.82,Yes
+2817-VHVEG,Male,0,Yes,No,41,No,No,Fiber optic,Yes,No,No internet service,Yes,No internet service,Yes,Month-to-month,No,Credit card (automatic),26.36,1080.76,Yes
+3042-MOTEO,Male,0,Yes,Yes,31,Yes,No,DSL,No internet service,No internet service,Yes,No internet service,No,No,Two year,Yes,Credit card (automatic),70.26,2178.06,No
+4035-MOTEO,Male,1,Yes,Yes,52,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,No internet service,Month-to-month,No,Credit card (automatic),106.68,5547.36,No
+1783-HZTQW,Male,0,Yes,No,16,No,Yes,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),51.44,823.04,No
+7907-VHVEG,Female,0,Yes,Yes,53,Yes,No,No,Yes,Yes,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Electronic check,81.55,4322.15,Yes
+4638-QPYBK,Male,0,Yes,No,36,No,Yes,Fiber optic,No,Yes,No,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,54.55,1963.8,No
+2911-VHVEG,Female,0,No,No,60,No,No phone service,No,No,Yes,Yes,No,No internet service,No internet service,Month-to-month,No,Mailed check,26.29,1577.4,Yes
+6099-MOTEO,Male,0,Yes,Yes,59,Yes,No phone service,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,102.6,6053.4,No
+3771-GNVDE,Female,0,Yes,Yes,71,No,Yes,No,Yes,Yes,Yes,No,No,No internet service,Month-to-month,No,Bank transfer (automatic),29.05,2062.55,No
+5944-MOTEO,Female,0,No,Yes,21,Yes,No phone service,DSL,No internet service,No,No,Yes,No internet service,Yes,Two year,No,Credit card (automatic),84.88,1782.48,No
+2127-HZTQW,Male,0,No,No,43,No,No phone service,No,No internet service,No,No internet service,No internet service,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),72.36,3111.48,Yes
+4873-QPYBK,Male,0,No,Yes,25,No,No,No,No,No,No internet service,No internet service,No,Yes,One year,No,Electronic check,55.86,1396.5,No
+3952-MOTEO,Male,0,Yes,No,26,No,Yes,Fiber optic,No,No,Yes,No,No internet service,Yes,Month-to-month,No,Electronic check,32.71,850.46,No
+4543-MOTEO,Male,0,No,Yes,21,No,Yes,No,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,93.46,1962.66,No
+9851-VHVEG,Female,0,No,No,15,No,Yes,DSL,Yes,Yes,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Credit card (automatic),116.2,1743.0,No
+8296-HZTQW,Female,0,No,No,29,No,No,DSL,Yes,Yes,No internet service,No,No internet service,No,Month-to-month,Yes,Electronic check,87.77,2545.33,No
+7925-GNVDE,Female,0,No,No,25,Yes,No phone service,No,No internet service,No internet service,No internet service,Yes,No,Yes,One year,Yes,Credit card (automatic),88.41,2210.25,No
+4718-VHVEG,Female,0,No,Yes,68,Yes,Yes,DSL,No internet service,Yes,No,No,Yes,Yes,Two year,No,Mailed check,112.5,7650.0,No
+5449-VHVEG,Female,0,Yes,No,53,No,Yes,Fiber optic,No internet service,No,No internet service,No internet service,Yes,No,One year,No,Mailed check,70.45,3733.85,No
+1194-VHVEG,Female,0,Yes,Yes,65,No,No,No,No,No internet service,No internet service,No internet service,Yes,No internet service,Two year,Yes,Bank transfer (automatic),77.33,5026.45,No
+2470-MOTEO,Male,0,Yes,No,50,Yes,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,44.23,2211.5,No
+4975-QPYBK,Female,0,No,Yes,32,Yes,No phone service,Fiber optic,Yes,Yes,No,No internet service,No internet service,Yes,Month-to-month,No,Electronic check,114.86,3675.52,Yes
+7369-HZTQW,Male,0,Yes,Yes,6,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,88.72,532.32,No
+5292-QPYBK,Female,0,Yes,Yes,26,Yes,No phone service,DSL,No,No,No,No internet service,No internet service,No,One year,Yes,Mailed check,32.67,849.42,No
+4685-HZTQW,Female,0,Yes,No,28,No,No phone service,DSL,No,Yes,Yes,Yes,No,No internet service,One year,No,Credit card (automatic),77.52,2170.56,No
+6570-GNVDE,Male,0,Yes,No,15,Yes,No phone service,No,No internet service,No,Yes,No,No internet service,Yes,Two year,Yes,Bank transfer (automatic),62.46,936.9,Yes
+3520-GNVDE,Female,0,No,Yes,21,Yes,No phone service,No,Yes,No internet service,No,Yes,No,No,One year,Yes,Electronic check,111.79,2347.59,No
+6536-GNVDE,Male,0,Yes,No,70,No,No,DSL,No,No internet service,No,No internet service,No,No,One year,No,Bank transfer (automatic),88.53,6197.1,No
+8309-HZTQW,Male,0,No,Yes,18,No,Yes,Fiber optic,No internet service,No internet service,Yes,No internet service,No,Yes,One year,No,Electronic check,45.17,813.06,Yes
+9820-GNVDE,Female,0,No,Yes,34,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),62.56,2127.04,No
+6167-QPYBK,Male,0,No,Yes,17,No,No,Fiber optic,No internet service,No,Yes,No internet service,No,No internet service,Month-to-month,No,Credit card (automatic),114.34,1943.78,No
+8202-VHVEG,Female,0,No,Yes,4,No,No,DSL,Yes,Yes,Yes,No internet service,Yes,Yes,Two year,No,Credit card (automatic),54.38,217.52,No
+1177-HZTQW,Female,0,Yes,No,47,No,No phone service,Fiber optic,No,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),78.94,3710.18,Yes
+4685-HZTQW,Male,0,Yes,No,69,No,No,DSL,No internet service,Yes,Yes,No,Yes,No,Two year,No,Mailed check,39.57,2730.33,No
+2551-GNVDE,Female,0,Yes,Yes,71,No,No,Fiber optic,No internet service,No internet service,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),84.04,5966.84,No
+4656-MOTEO,Male,0,No,No,1,No,No phone service,Fiber optic,No internet service,No,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),57.97,57.97,Yes
+2776-QPYBK,Male,0,Yes,Yes,50,Yes,No phone service,No,Yes,Yes,No internet service,Yes,No,No internet service,Month-to-month,No,Mailed check,110.61,5530.5,No
+1824-MOTEO,Female,0,Yes,Yes,32,Yes,No,Fiber optic,No internet service,No,No,Yes,Yes,No internet service,One year,Yes,Bank transfer (automatic),90.85,2907.2,No
+6192-VHVEG,Female,0,Yes,Yes,24,No,No phone service,No,No internet service,No internet service,Yes,No internet service,No,No,Two year,Yes,Credit card (automatic),77.98,1871.52,Yes
+7736-MOTEO,Female,1,No,No,29,Yes,Yes,Fiber optic,No internet service,No,Yes,No,No internet service,No internet service,One year,Yes,Electronic check,33.46,970.34,Yes
+7005-HZTQW,Female,0,Yes,Yes,20,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,Yes,Yes,No,One year,Yes,Credit card (automatic),78.5,1570.0,No
+9305-QPYBK,Male,0,No,Yes,9,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Two year,Yes,Mailed check,63.92,575.28,No
+6163-GNVDE,Female,0,Yes,No,54,Yes,Yes,Fiber optic,No internet service,No,Yes,Yes,No internet service,No,One year,Yes,Bank transfer (automatic),59.26,3200.04,Yes
+9318-MOTEO,Male,0,No,No,8,No,No phone service,Fiber optic,No internet service,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,83.71,669.68,No
+5236-GNVDE,Female,0,No,No,51,Yes,No,No,No internet service,No,Yes,No internet service,No internet service,No internet service,One year,Yes,Electronic check,107.85,5500.35,No
+5673-HZTQW,Male,0,Yes,No,4,No,No,DSL,No internet service,Yes,No internet service,No internet service,Yes,No internet service,Two year,No,Credit card (automatic),49.63,198.52,No
+9320-HZTQW,Male,0,Yes,No,61,No,No phone service,No,Yes,No,Yes,No,No internet service,No,One year,No,Electronic check,97.98,5976.78,No
+8042-VHVEG,Male,0,Yes,No,57,No,No phone service,DSL,No internet service,No,No internet service,No internet service,Yes,No,One year,Yes,Mailed check,22.36,1274.52,No
+7773-MOTEO,Male,1,Yes,Yes,20,Yes,Yes,Fiber optic,No,No,No internet service,Yes,No,Yes,Two year,No,Credit card (automatic),93.5,1870.0,Yes
+2180-VHVEG,Female,0,No,No,20,No,No phone service,DSL,No internet service,No internet service,No internet service,No internet service,Yes,Yes,Two year,No,Bank transfer (automatic),45.34,906.8,Yes
+2429-MOTEO,Female,0,Yes,No,21,No,Yes,Fiber optic,Yes,No internet service,No,No internet service,No internet service,No,One year,Yes,Credit card (automatic),56.82,1193.22,No
+4306-QPYBK,Male,0,No,No,37,Yes,Yes,Fiber optic,Yes,No internet service,Yes,Yes,No,No,One year,Yes,Mailed check,89.63,3316.31,No
+8551-VHVEG,Female,0,No,No,50,No,Yes,No,No,No,No,No,No,No,Two year,No,Electronic check,21.45,1072.5,No
+5585-GNVDE,Male,0,Yes,No,52,No,No,DSL,No,Yes,No,No,Yes,Yes,Two year,No,Mailed check,64.26,3341.52,No
+4658-VHVEG,Male,0,No,No,58,No,No,DSL,Yes,Yes,No internet service,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),113.81,6600.98,Yes
+5330-MOTEO,Male,1,No,No,1,Yes,No,No,Yes,Yes,No internet service,No,Yes,No,Two year,No,Bank transfer (automatic),29.72,29.72,No
+2258-GNVDE,Male,0,No,No,66,Yes,No phone service,DSL,No,No internet service,No internet service,No internet service,No,No internet service,One year,No,Electronic check,34.85,2300.1,Yes
+1040-HZTQW,Male,1,Yes,Yes,27,Yes,Yes,No,Yes,No,Yes,No internet service,No internet service,No internet service,One year,No,Mailed check,65.15,1759.05,Yes
+4504-HZTQW,Male,1,Yes,No,61,No,No,Fiber optic,Yes,No internet service,No,Yes,No internet service,Yes,One year,Yes,Mailed check,49.17,2999.37,No
+2012-HZTQW,Male,1,Yes,Yes,62,No,No phone service,DSL,Yes,No,No,No internet service,No,Yes,Month-to-month,Yes,Electronic check,55.05,3413.1,No
+9006-VHVEG,Female,0,Yes,No,71,Yes,No,Fiber optic,No,No internet service,No internet service,No,No,No internet service,Month-to-month,No,Electronic check,26.44,1877.24,Yes
+9094-MOTEO,Female,0,No,No,9,Yes,No,Fiber optic,No internet service,Yes,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),117.42,1056.78,No
+2366-QPYBK,Male,0,No,Yes,19,No,No,Fiber optic,No,No internet service,No internet service,Yes,No,No internet service,Two year,Yes,Electronic check,34.59,657.21,No
+6660-HZTQW,Male,1,Yes,Yes,15,Yes,No phone service,No,No,Yes,No internet service,No,No internet service,No internet service,One year,Yes,Credit card (automatic),30.56,458.4,Yes
+3170-MOTEO,Male,0,No,No,61,No,Yes,DSL,No,No internet service,No,No internet service,Yes,No internet service,Two year,No,Credit card (automatic),21.28,1298.08,No
+4496-GNVDE,Female,1,No,Yes,45,Yes,No phone service,No,Yes,No internet service,No internet service,No,No internet service,No internet service,One year,No,Bank transfer (automatic),78.78,3545.1,No
+6165-HZTQW,Male,0,Yes,Yes,54,No,Yes,No,Yes,No internet service,No internet service,No internet service,Yes,No internet service,One year,No,Mailed check,46.17,2493.18,No
+9784-MOTEO,Male,1,Yes,No,19,Yes,No,Fiber optic,Yes,No,No internet service,Yes,Yes,Yes,One year,No,Mailed check,94.91,1803.29,Yes
+9006-QPYBK,Male,0,No,Yes,6,Yes,No,No,Yes,No internet service,Yes,No,No internet service,No internet service,Two year,No,Credit card (automatic),40.5,243.0,No
+2094-QPYBK,Female,0,Yes,Yes,52,No,No,No,No,No,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),72.14,3751.28,No
+3344-VHVEG,Female,0,Yes,No,15,Yes,Yes,DSL,No internet service,No,Yes,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),75.76,1136.4,No
+9579-HZTQW,Male,0,No,No,19,No,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,56.12,1066.28,No
+8693-QPYBK,Male,0,No,Yes,55,Yes,No,No,No internet service,Yes,No internet service,No,Yes,No,Month-to-month,No,Mailed check,26.36,1449.8,No
+9366-HZTQW,Male,0,No,Yes,44,Yes,No phone service,Fiber optic,No internet service,No,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Electronic check,110.96,4882.24,No
+1196-GNVDE,Female,0,No,No,13,Yes,Yes,DSL,No internet service,No,No internet service,No internet service,Yes,No,Two year,Yes,Bank transfer (automatic),57.84,751.92,No
+4513-GNVDE,Male,0,Yes,Yes,19,No,No phone service,No,Yes,Yes,No internet service,No,No internet service,No internet service,Month-to-month,No,Electronic check,51.23,973.37,No
+8051-GNVDE,Male,0,Yes,Yes,39,Yes,No,Fiber optic,No,Yes,Yes,No internet service,No,No internet service,Month-to-month,No,Mailed check,117.48,4581.72,Yes
+4231-VHVEG,Male,0,No,Yes,36,No,Yes,Fiber optic,Yes,No internet service,No internet service,No internet service,No,No internet service,Two year,No,Electronic check,48.92,1761.12,No
+5129-GNVDE,Male,0,No,Yes,14,Yes,No phone service,DSL,No,No,No,No internet service,No,Yes,Two year,No,Bank transfer (automatic),110.62,1548.68,No
+5148-HZTQW,Male,0,Yes,Yes,22,No,No,Fiber optic,No internet service,No,No internet service,No,Yes,No internet service,One year,Yes,Bank transfer (automatic),113.68,2500.96,Yes
+8210-HZTQW,Female,0,No,No,52,No,Yes,Fiber optic,No,No internet service,Yes,No,No internet service,No,Two year,No,Electronic check,25.94,1348.88,No
+6298-VHVEG,Male,1,No,Yes,60,No,No phone service,Fiber optic,Yes,No internet service,Yes,No internet service,Yes,Yes,Month-to-month,No,Electronic check,81.32,4879.2,Yes
+2111-HZTQW,Male,0,Yes,Yes,19,No,Yes,Fiber optic,No,No,Yes,No,No,No,One year,Yes,Mailed check,41.47,787.93,No
+9186-GNVDE,Female,0,Yes,No,41,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),93.15,3819.15,Yes
+9495-MOTEO,Male,1,Yes,No,14,Yes,Yes,No,No internet service,No internet service,No internet service,No,No,No internet service,Two year,No,Mailed check,65.24,913.36,No
+5768-QPYBK,Male,0,Yes,Yes,36,Yes,No phone service,No,No,No,Yes,No internet service,Yes,No,Month-to-month,Yes,Credit card (automatic),82.9,2984.4,No
+3997-MOTEO,Male,0,Yes,No,23,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),58.5,1345.5,No
+6927-HZTQW,Male,0,Yes,Yes,21,Yes,No,No,No internet service,Yes,No internet service,Yes,Yes,No,One year,No,Electronic check,115.31,2421.51,No
+5843-QPYBK,Female,0,Yes,No,26,Yes,No phone service,DSL,Yes,No,Yes,No,No internet service,No,Month-to-month,No,Bank transfer (automatic),83.55,2172.3,No
+6449-VHVEG,Female,0,Yes,No,25,No,No phone service,Fiber optic,No,Yes,No,Yes,No,No internet service,Month-to-month,No,Mailed check,105.64,2641.0,Yes
+6183-HZTQW,Female,0,No,Yes,46,Yes,Yes,Fiber optic,No internet service,No,No,Yes,Yes,No,One year,Yes,Mailed check,96.81,4453.26,No
+3827-QPYBK,Female,0,Yes,Yes,49,Yes,No,DSL,No internet service,Yes,No internet service,Yes,No internet service,No,One year,Yes,Mailed check,61.18,2997.82,No
+2937-QPYBK,Male,0,Yes,No,65,No,Yes,DSL,No,No internet service,No,No,No internet service,No,Two year,No,Mailed check,48.86,3175.9,Yes
+1737-GNVDE,Female,0,No,No,63,No,Yes,No,No internet service,Yes,No internet service,No internet service,Yes,Yes,One year,No,Credit card (automatic),72.55,4570.65,No
+9028-MOTEO,Female,1,Yes,Yes,68,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,Yes,No,No internet service,One year,Yes,Credit card (automatic),78.41,5331.88,Yes
+8771-MOTEO,Male,0,Yes,No,53,Yes,Yes,No,No internet service,No internet service,No,Yes,No,Yes,Two year,Yes,Electronic check,116.99,6200.47,Yes
+9361-VHVEG,Male,0,No,Yes,0,No,No,DSL,No internet service,Yes,No,No internet service,No,No internet service,One year,Yes,Credit card (automatic),26.37,26.37,Yes
+4618-GNVDE,Female,0,Yes,Yes,11,Yes,No,DSL,Yes,No,No,No,No internet service,No,Two year,Yes,Electronic check,74.87,823.57,No
+7162-HZTQW,Male,0,No,No,66,Yes,No phone service,DSL,No internet service,No,No internet service,No,No internet service,No internet service,Month-to-month,No,Electronic check,27.33,1803.78,Yes
+8896-MOTEO,Male,0,Yes,Yes,62,Yes,No,DSL,Yes,No internet service,No internet service,Yes,Yes,No,Two year,No,Mailed check,76.74,4757.88,Yes
+7280-MOTEO,Male,0,No,No,38,No,No,DSL,No,Yes,No internet service,No internet service,No internet service,No,One year,Yes,Mailed check,118.22,4492.36,No
+1338-QPYBK,Female,0,Yes,Yes,66,No,Yes,DSL,No,Yes,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),105.51,6963.66,No
+8072-MOTEO,Male,0,No,Yes,42,No,No,DSL,No internet service,No,No,Yes,No,Yes,One year,No,Mailed check,29.35,1232.7,Yes
+1652-VHVEG,Male,0,Yes,No,24,Yes,No,Fiber optic,Yes,Yes,No internet service,No internet service,Yes,Yes,Two year,No,Bank transfer (automatic),51.99,1247.76,Yes
+2044-HZTQW,Female,0,Yes,No,49,Yes,No phone service,No,No,No,No internet service,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),50.93,2495.57,No
+3004-VHVEG,Male,0,Yes,Yes,36,No,Yes,Fiber optic,No internet service,No internet service,Yes,No,No internet service,No,Month-to-month,No,Bank transfer (automatic),53.46,1924.56,No
+6276-QPYBK,Female,0,No,No,31,Yes,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),32.7,1013.7,No
+9608-VHVEG,Male,0,Yes,Yes,11,No,No phone service,Fiber optic,No,No internet service,Yes,No internet service,No internet service,Yes,One year,No,Bank transfer (automatic),59.49,654.39,No
+5690-VHVEG,Female,0,No,Yes,37,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No internet service,Yes,Month-to-month,No,Electronic check,45.5,1683.5,No
+9358-GNVDE,Male,1,No,No,14,No,No,No,No,No,No internet service,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),111.54,1561.56,No
+9376-GNVDE,Female,0,No,No,55,Yes,No phone service,DSL,No internet service,Yes,No internet service,No internet service,Yes,Yes,Two year,Yes,Mailed check,66.25,3643.75,No
+2675-GNVDE,Male,0,No,No,36,Yes,No,Fiber optic,No internet service,No,No,No internet service,No internet service,Yes,One year,No,Credit card (automatic),70.01,2520.36,Yes
+1959-GNVDE,Male,0,No,No,14,No,No phone service,Fiber optic,No,Yes,No,No internet service,No,Yes,One year,No,Electronic check,78.3,1096.2,No
+9368-QPYBK,Female,0,Yes,Yes,51,No,No,No,No,No,Yes,No,Yes,No internet service,Month-to-month,Yes,Mailed check,77.08,3931.08,No
+7148-MOTEO,Male,0,Yes,No,25,No,Yes,No,Yes,No internet service,No internet service,Yes,No,No,One year,Yes,Electronic check,38.08,952.0,Yes
+2952-VHVEG,Female,0,Yes,Yes,51,No,No phone service,No,Yes,No,No internet service,Yes,Yes,Yes,One year,No,Credit card (automatic),21.71,1107.21,No
+4431-MOTEO,Male,0,No,Yes,52,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),61.45,3195.4,Yes
+9546-HZTQW,Female,0,No,No,62,No,Yes,No,Yes,Yes,No internet service,No internet service,No,No,One year,Yes,Mailed check,96.02,5953.24,Yes
+9893-MOTEO,Female,0,Yes,Yes,34,Yes,No,Fiber optic,No,No internet service,No internet service,No,Yes,No internet service,Month-to-month,No,Electronic check,69.59,2366.06,No
+6202-VHVEG,Female,0,No,No,39,Yes,No phone service,DSL,No internet service,Yes,Yes,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),44.32,1728.48,No
+9730-QPYBK,Male,0,Yes,No,3,Yes,No,Fiber optic,Yes,No,Yes,No,No internet service,No,Two year,No,Mailed check,83.15,249.45,No
+8083-QPYBK,Female,0,No,Yes,68,No,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),62.97,4281.96,No
+4579-QPYBK,Female,0,No,No,22,No,Yes,DSL,Yes,Yes,Yes,Yes,No internet service,No,Month-to-month,Yes,Credit card (automatic),96.58,2124.76,No
+5876-HZTQW,Male,0,Yes,Yes,45,Yes,No,No,No,No,No internet service,No,Yes,Yes,Month-to-month,Yes,Electronic check,53.56,2410.2,No
+9632-GNVDE,Female,1,No,No,48,No,No phone service,No,No internet service,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),71.46,3430.08,No
+8650-MOTEO,Female,0,Yes,Yes,28,No,Yes,Fiber optic,No,No internet service,Yes,Yes,No internet service,No,Month-to-month,No,Credit card (automatic),38.38,1074.64,No
+4539-HZTQW,Male,0,No,No,8,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,No,Yes,No,Two year,No,Electronic check,86.26,690.08,No
+2753-QPYBK,Female,0,Yes,Yes,34,No,No,DSL,No internet service,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,35.14,1194.76,Yes
+5785-MOTEO,Female,0,No,No,36,Yes,No,No,No,Yes,No internet service,No internet service,Yes,No internet service,One year,No,Electronic check,58.64,2111.04,No
+9245-QPYBK,Female,0,Yes,No,49,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,32.93,1613.57,No
+2827-MOTEO,Female,0,Yes,No,38,No,Yes,DSL,No internet service,Yes,No internet service,No internet service,Yes,No internet service,Two year,Yes,Bank transfer (automatic),32.62,1239.56,No
+4164-HZTQW,Male,0,Yes,No,68,Yes,No,No,Yes,Yes,No,No,Yes,No,Two year,No,Electronic check,23.27,1582.36,No
+1643-MOTEO,Male,0,No,No,55,Yes,No,Fiber optic,Yes,No internet service,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),101.24,5568.2,No
+4923-QPYBK,Female,0,Yes,Yes,60,Yes,No,DSL,No,No,No,Yes,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),43.41,2604.6,Yes
+6741-GNVDE,Male,0,Yes,No,4,Yes,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),107.69,430.76,No
+8949-QPYBK,Male,0,Yes,Yes,16,Yes,Yes,DSL,Yes,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Electronic check,94.06,1504.96,No
+7797-QPYBK,Male,1,No,Yes,14,No,No,DSL,Yes,No internet service,No internet service,Yes,No,No internet service,Two year,No,Bank transfer (automatic),117.7,1647.8,No
+5321-VHVEG,Female,0,No,No,14,Yes,No phone service,No,Yes,No,No,Yes,No internet service,No internet service,Month-to-month,Yes,Electronic check,110.44,1546.16,Yes
+3150-VHVEG,Male,0,No,No,55,No,No,Fiber optic,No,Yes,No,No internet service,No,No internet service,Two year,No,Mailed check,46.83,2575.65,No
+2709-GNVDE,Male,0,Yes,Yes,27,No,Yes,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),87.41,2360.07,No
+2595-QPYBK,Female,1,Yes,Yes,11,No,No,Fiber optic,No internet service,No,No,Yes,Yes,No,Month-to-month,No,Credit card (automatic),57.03,627.33,No
+5402-GNVDE,Female,0,No,No,59,No,No,Fiber optic,No internet service,Yes,Yes,Yes,No,Yes,One year,Yes,Electronic check,48.06,2835.54,No
+3094-VHVEG,Female,0,No,Yes,26,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,Yes,Yes,No internet service,Two year,Yes,Bank transfer (automatic),93.69,2435.94,No
+9527-QPYBK,Female,0,No,Yes,14,No,Yes,DSL,Yes,No internet service,No,Yes,No internet service,No,Two year,No,Bank transfer (automatic),62.45,874.3,Yes
+7767-QPYBK,Female,0,No,Yes,26,Yes,No,Fiber optic,Yes,No internet service,No internet service,No internet service,No internet service,Yes,One year,No,Bank transfer (automatic),105.02,2730.52,No
+4093-HZTQW,Female,0,No,Yes,26,Yes,No,DSL,No,Yes,No,No internet service,Yes,No,One year,Yes,Bank transfer (automatic),88.63,2304.38,No
+2938-HZTQW,Female,0,Yes,No,72,Yes,Yes,Fiber optic,No,No internet service,No,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,84.57,6089.04,Yes
+5512-QPYBK,Female,0,No,No,8,No,No phone service,No,Yes,No,Yes,No,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),86.02,688.16,Yes
+9881-HZTQW,Female,0,No,No,36,No,Yes,DSL,No,No,No,No internet service,No internet service,No internet service,One year,No,Electronic check,116.25,4185.0,No
+6312-GNVDE,Male,1,No,Yes,51,No,No,DSL,No internet service,No internet service,No,No,No,Yes,Two year,No,Credit card (automatic),107.31,5472.81,No
+5633-QPYBK,Male,0,No,No,63,Yes,No phone service,Fiber optic,Yes,No,No internet service,Yes,No,No internet service,One year,Yes,Mailed check,49.2,3099.6,Yes
+4816-MOTEO,Female,0,Yes,Yes,6,No,No phone service,No,Yes,Yes,No,No,Yes,Yes,One year,No,Credit card (automatic),90.96,545.76,No
+1455-VHVEG,Female,0,Yes,No,33,Yes,Yes,No,No,No internet service,No internet service,No internet service,No,No,Two year,No,Electronic check,59.12,1950.96,No
+8471-GNVDE,Male,0,No,Yes,3,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,68.38,205.14,No
+7764-HZTQW,Male,1,No,No,11,No,No phone service,Fiber optic,No,No,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),60.37,664.07,Yes
+9033-MOTEO,Male,1,No,No,10,No,No,DSL,No,No,Yes,No internet service,Yes,No internet service,One year,No,Electronic check,42.35,423.5,Yes
+2934-QPYBK,Female,0,No,No,23,Yes,Yes,DSL,No internet service,No,No,No internet service,Yes,No internet service,Two year,Yes,Electronic check,88.08,2025.84,Yes
+2432-GNVDE,Female,0,No,Yes,71,Yes,No phone service,DSL,No,No,Yes,No internet service,No,No internet service,One year,No,Mailed check,119.69,8497.99,Yes
+4625-HZTQW,Female,0,Yes,No,11,Yes,No phone service,No,No,No,No,No,Yes,No internet service,One year,Yes,Electronic check,118.31,1301.41,No
+8530-VHVEG,Female,0,Yes,Yes,14,Yes,No,DSL,No,Yes,Yes,No internet service,No,No internet service,Two year,Yes,Bank transfer (automatic),68.49,958.86,No
+9744-MOTEO,Female,1,No,Yes,5,No,No,DSL,No,No,No internet service,No,Yes,No,One year,No,Mailed check,119.86,599.3,Yes
+7514-MOTEO,Female,0,No,No,5,No,No,No,No,No internet service,No internet service,No,No,Yes,Two year,Yes,Bank transfer (automatic),44.78,223.9,No
+1452-HZTQW,Female,0,No,No,53,Yes,No,Fiber optic,Yes,No,No internet service,No internet service,No,No internet service,One year,No,Credit card (automatic),25.03,1326.59,No
+9034-QPYBK,Male,0,No,No,56,Yes,No,No,Yes,No internet service,No,Yes,No internet service,No,Month-to-month,Yes,Credit card (automatic),40.16,2248.96,Yes
+9343-HZTQW,Male,0,Yes,No,39,Yes,Yes,No,No internet service,No internet service,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),96.42,3760.38,No
+9212-MOTEO,Male,1,No,Yes,71,Yes,Yes,Fiber optic,No,No internet service,Yes,No internet service,No,Yes,One year,Yes,Mailed check,89.25,6336.75,No
+4301-HZTQW,Female,1,Yes,Yes,27,No,Yes,Fiber optic,Yes,No,No internet service,No internet service,No,Yes,Month-to-month,Yes,Bank transfer (automatic),86.29,2329.83,Yes
+3167-GNVDE,Male,0,Yes,Yes,59,No,No,Fiber optic,No internet service,Yes,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),84.78,5002.02,No
+9685-HZTQW,Male,0,No,No,51,No,No phone service,Fiber optic,No internet service,No internet service,Yes,No internet service,Yes,Yes,Two year,No,Credit card (automatic),20.49,1044.99,No
+9522-QPYBK,Male,0,No,No,54,No,No phone service,Fiber optic,No,Yes,No,No,No,No internet service,One year,No,Bank transfer (automatic),52.26,2822.04,No
+6858-HZTQW,Male,1,Yes,Yes,46,No,No,No,Yes,No internet service,No,Yes,No,No,Month-to-month,No,Electronic check,48.7,2240.2,No
+5251-VHVEG,Male,0,Yes,No,20,No,Yes,DSL,No internet service,No internet service,No,No internet service,No,Yes,One year,Yes,Bank transfer (automatic),34.72,694.4,No
+7028-MOTEO,Male,0,Yes,No,27,Yes,Yes,DSL,No internet service,No,No internet service,No internet service,No,No,One year,No,Mailed check,110.44,2981.88,Yes
+1835-HZTQW,Male,0,No,Yes,28,Yes,Yes,No,No,Yes,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),105.43,2952.04,Yes
+9082-VHVEG,Female,0,Yes,Yes,28,No,Yes,No,No,No internet service,No internet service,Yes,No,No,One year,Yes,Bank transfer (automatic),96.43,2700.04,Yes
+2515-VHVEG,Female,0,Yes,No,12,Yes,No,DSL,No,No,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),101.62,1219.44,Yes
+5198-VHVEG,Male,0,Yes,No,39,No,Yes,DSL,No internet service,Yes,Yes,No internet service,No,No internet service,Two year,No,Electronic check,62.42,2434.38,Yes
+2515-HZTQW,Female,0,No,No,70,Yes,No phone service,No,No,No,No,No internet service,No internet service,Yes,One year,Yes,Credit card (automatic),56.1,3927.0,No
+2558-VHVEG,Male,0,Yes,Yes,12,Yes,No phone service,No,No internet service,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),24.33,291.96,Yes
+8414-VHVEG,Male,0,No,Yes,54,Yes,No phone service,No,No internet service,Yes,No,Yes,No internet service,No,Month-to-month,Yes,Mailed check,42.63,2302.02,No
+3783-GNVDE,Female,0,Yes,No,45,No,Yes,No,No,No,Yes,Yes,No,Yes,Two year,Yes,Electronic check,22.85,1028.25,Yes
+4704-GNVDE,Female,0,Yes,No,14,No,No phone service,DSL,Yes,Yes,No,No,No internet service,No,One year,Yes,Mailed check,100.67,1409.38,No
+7344-MOTEO,Female,0,No,No,32,Yes,No,No,Yes,No,No internet service,No,No,No internet service,Two year,Yes,Mailed check,111.62,3571.84,No
+1701-VHVEG,Female,1,No,Yes,12,No,No phone service,DSL,No internet service,No internet service,Yes,No internet service,No,No internet service,Month-to-month,Yes,Electronic check,76.42,917.04,No
+6607-GNVDE,Female,0,Yes,Yes,61,Yes,Yes,DSL,No,No,No,No internet service,No,No internet service,Two year,No,Credit card (automatic),103.52,6314.72,Yes
+6849-QPYBK,Female,0,No,Yes,58,Yes,No phone service,No,No internet service,Yes,No internet service,No internet service,No internet service,Yes,One year,Yes,Bank transfer (automatic),50.48,2927.84,Yes
+2593-GNVDE,Male,0,Yes,Yes,69,No,No,DSL,Yes,Yes,No internet service,No internet service,Yes,Yes,Two year,Yes,Credit card (automatic),117.55,8110.95,No
