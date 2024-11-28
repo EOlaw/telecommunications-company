@@ -78,4 +78,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-Download this project as a ZIP [here](https://github.com/YourUsername/Telecom-Churn-Analysis/archive/refs/heads/main.zip).
+Download this project as a ZIP [here](https://github.com/EOlaw/telecommunications-company.git).
